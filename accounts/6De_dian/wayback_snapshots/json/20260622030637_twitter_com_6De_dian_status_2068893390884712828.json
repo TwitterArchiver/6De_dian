@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068888264745144526",
+    "created_at": "2026-06-22T03:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068893390884712828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1785204977012785152",
+          "start": 0,
+          "username": "zyd1009c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068893390884712828",
+    "in_reply_to_user_id": "1785204977012785152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068888264745144526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyd1009c *摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068888264745144526",
+        "created_at": "2026-06-22T03:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068893390884712828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1785204977012785152",
+              "start": 0,
+              "username": "zyd1009c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068893390884712828",
+        "in_reply_to_user_id": "1785204977012785152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068888264745144526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyd1009c *摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785204977012785152",
+        "conversation_id": "2068888264745144526",
+        "created_at": "2026-06-22T02:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068888264745144526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068888264745144526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "230mg也可能是270mg美金刚\n我记不清了 因为我把剩下的都倒嘴里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 207,
+          "like_count": 3216,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T07:10:16.000Z",
+        "description": "没什么",
+        "id": "1785204977012785152",
+        "name": "辰^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032225625126420481/Lj0-ZGPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 175,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "zyd1009c",
+        "verified": false
+      }
+    ]
+  }
+}

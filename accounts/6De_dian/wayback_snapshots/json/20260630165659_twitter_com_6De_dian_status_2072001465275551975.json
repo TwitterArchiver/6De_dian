@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071804042804945398",
+    "created_at": "2026-06-30T16:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072001465275551975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070647589972942848",
+          "start": 0,
+          "username": "Wuliheat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072001465275551975",
+    "in_reply_to_user_id": "2070647589972942848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071804042804945398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wuliheat 阿片样欣快，但是口服进口药感觉算弱阿片诶……而且这个贵贵的，因为一次吃很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071804042804945398",
+        "created_at": "2026-06-30T16:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072001465275551975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070647589972942848",
+              "start": 0,
+              "username": "Wuliheat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072001465275551975",
+        "in_reply_to_user_id": "2070647589972942848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071804042804945398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wuliheat 阿片样欣快，但是口服进口药感觉算弱阿片诶……而且这个贵贵的，因为一次吃很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070647589972942848",
+        "conversation_id": "2071804042804945398",
+        "created_at": "2026-06-30T03:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071804042804945398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071804042804945398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噻萘普汀啥药效啊，我有点想买了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 331,
+          "like_count": 6328,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-26T23:18:12.000Z",
+        "description": "会查成分，直fo是喜欢你咔你是你的问题",
+        "id": "2070647589972942848",
+        "name": "苦情剧2.0（寻回互fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071238965580197888/WRz1Yq_S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Wuliheat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068925124170969420",
+    "created_at": "2026-06-23T14:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069433327719768368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897607776706215936",
+          "start": 0,
+          "username": "love010149"
+        },
+        {
+          "end": 25,
+          "id": "1051173694779863040",
+          "start": 12,
+          "username": "madina__mart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069433327719768368",
+    "in_reply_to_user_id": "1897607776706215936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069417863413166469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love010149 @madina__mart 账号又死掉了啊，，这个已经转生两次了呢"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [madina__mart].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "madina__mart",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "madina__mart"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068925124170969420",
+        "created_at": "2026-06-23T14:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069433327719768368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897607776706215936",
+              "start": 0,
+              "username": "love010149"
+            },
+            {
+              "end": 25,
+              "id": "1051173694779863040",
+              "start": 12,
+              "username": "madina__mart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069433327719768368",
+        "in_reply_to_user_id": "1897607776706215936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069417863413166469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love010149 @madina__mart 账号又死掉了啊，，这个已经转生两次了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897607776706215936",
+        "conversation_id": "2068925124170969420",
+        "created_at": "2026-06-23T13:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069417863413166469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            },
+            {
+              "end": 23,
+              "id": "1051173694779863040",
+              "start": 10,
+              "username": "madina__mart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069417863413166469",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069155418375368857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian @madina__mart 已无"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天将一切重新来该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 212,
+          "like_count": 3584,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T11:18:54.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈 🩷❤️🧡💛💚🩵💙💜hrt:20260517",
+        "id": "1897607776706215936",
+        "name": "无无名字🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059094377751076864/bNl8AAqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 576,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "love010149",
+        "verified": false
+      }
+    ]
+  }
+}

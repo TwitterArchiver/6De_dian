@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068927988855357732",
+    "created_at": "2026-06-22T05:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068927988855357732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_N0R0SH1/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/_N0R0SH1/status/2068781194310033573",
+          "start": 3,
+          "url": "https://t.co/D68JAEaIxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068927988855357732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068781194310033573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/D68JAEaIxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_2068781165801250816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXJgmmaIAAKG5T.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068927988855357732",
+        "created_at": "2026-06-22T05:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068927988855357732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_N0R0SH1/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/_N0R0SH1/status/2068781194310033573",
+              "start": 3,
+              "url": "https://t.co/D68JAEaIxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068927988855357732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068781194310033573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/D68JAEaIxt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068781165801250816"
+          ]
+        },
+        "author_id": "2038627519692259329",
+        "conversation_id": "2068781194310033573",
+        "created_at": "2026-06-21T19:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T20:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068781194310033573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qoQ8uZWAPy",
+              "end": 23,
+              "expanded_url": "https://x.com/_N0R0SH1/status/2068781194310033573/photo/1",
+              "media_key": "3_2068781165801250816",
+              "start": 0,
+              "url": "https://t.co/qoQ8uZWAPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068781194310033573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 13938,
+          "like_count": 2154,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qoQ8uZWAPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 209,
+          "like_count": 3262,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T14:40:59.000Z",
+        "description": "20⬆️丨OC/同人丨🚫AI🚫無断転載丨\nLCB全員箱推し⚠️雑食⚠️丨中文/ENG/日本語/翻訳機使用丨\n無言フォローとフォロバ失礼",
+        "id": "2038627519692259329",
+        "name": "緻密九構成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042148016350736384/qcJmWfi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 26,
+          "like_count": 406,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "_N0R0SH1",
+        "verified": false
+      }
+    ]
+  }
+}

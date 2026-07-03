@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2060928949987754185",
+    "created_at": "2026-05-31T13:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061080244597948622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1374033535065976837",
+          "start": 0,
+          "username": "qiuyuantuosi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061080244597948622",
+    "in_reply_to_user_id": "1374033535065976837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061069014370029828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuyuantuosi 口腔溃疡，，好坏！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2060928949987754185",
+        "created_at": "2026-05-31T13:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061080244597948622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1374033535065976837",
+              "start": 0,
+              "username": "qiuyuantuosi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061080244597948622",
+        "in_reply_to_user_id": "1374033535065976837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061069014370029828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuyuantuosi 口腔溃疡，，好坏！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374033535065976837",
+        "conversation_id": "2060928949987754185",
+        "created_at": "2026-05-31T12:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061069014370029828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061069014370029828",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060928949987754185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 我舌下含服劳拉西泮其实有点烧嘴，触发口腔溃疡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 135,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 156
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:21:45.000Z",
+        "description": "风吹哪页读哪页",
+        "id": "1374033535065976837",
+        "name": "秋秋秋秋",
+        "pinned_tweet_id": "1729886485044953154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820374183974481920/G1aSqKNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 48,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 154
+        },
+        "username": "qiuyuantuosi",
+        "verified": false
+      }
+    ]
+  }
+}

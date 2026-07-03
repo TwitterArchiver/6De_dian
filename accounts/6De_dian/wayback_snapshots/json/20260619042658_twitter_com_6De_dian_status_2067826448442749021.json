@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067302908765564928",
+        "3_2067302913266065408"
+      ],
+      "media_source_tweet_id": [
+        "2067302915975635401",
+        "2067302915975635401"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2067826448442749021",
+    "created_at": "2026-06-19T04:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T05:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067826448442749021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962425480612851712",
+          "start": 3,
+          "username": "yaowubaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0hvljIRcqn",
+          "end": 121,
+          "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+          "media_key": "3_2067302908765564928",
+          "start": 98,
+          "url": "https://t.co/0hvljIRcqn"
+        },
+        {
+          "display_url": "pic.x.com/0hvljIRcqn",
+          "end": 121,
+          "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+          "media_key": "3_2067302913266065408",
+          "start": 98,
+          "url": "https://t.co/0hvljIRcqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067826448442749021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067302915975635401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaowubaike: 今年 7.1 封神榜新鲜出炉\n这次封印可以说除了替来他明 咪酯类\n也把半个策划药圈封印了\n其中还有老熟人 3-meo-pce\n不是很意外 还是那句话\n化学没有尽头 https://t.co/0hvljIRcqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2067302908765564928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCJCuAacAA-4m6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1529,
+        "media_key": "3_2067302913266065408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCJC-xaoAANH0W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067302908765564928",
+            "3_2067302913266065408"
+          ],
+          "media_source_tweet_id": [
+            "2067302915975635401",
+            "2067302915975635401"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2067826448442749021",
+        "created_at": "2026-06-19T04:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067826448442749021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962425480612851712",
+              "start": 3,
+              "username": "yaowubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hvljIRcqn",
+              "end": 121,
+              "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+              "media_key": "3_2067302908765564928",
+              "start": 98,
+              "url": "https://t.co/0hvljIRcqn"
+            },
+            {
+              "display_url": "pic.x.com/0hvljIRcqn",
+              "end": 121,
+              "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+              "media_key": "3_2067302913266065408",
+              "start": 98,
+              "url": "https://t.co/0hvljIRcqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067826448442749021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067302915975635401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaowubaike: 今年 7.1 封神榜新鲜出炉\n这次封印可以说除了替来他明 咪酯类\n也把半个策划药圈封印了\n其中还有老熟人 3-meo-pce\n不是很意外 还是那句话\n化学没有尽头 https://t.co/0hvljIRcqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067302908765564928",
+            "3_2067302913266065408"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2067302915975635401",
+        "created_at": "2026-06-17T17:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067302915975635401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hvljIRcqn",
+              "end": 105,
+              "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+              "media_key": "3_2067302908765564928",
+              "start": 82,
+              "url": "https://t.co/0hvljIRcqn"
+            },
+            {
+              "display_url": "pic.x.com/0hvljIRcqn",
+              "end": 105,
+              "expanded_url": "https://x.com/yaowubaike/status/2067302915975635401/photo/1",
+              "media_key": "3_2067302913266065408",
+              "start": 82,
+              "url": "https://t.co/0hvljIRcqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067302915975635401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3339,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今年 7.1 封神榜新鲜出炉\n这次封印可以说除了替来他明 咪酯类\n也把半个策划药圈封印了\n其中还有老熟人 3-meo-pce\n不是很意外 还是那句话\n化学没有尽头 https://t.co/0hvljIRcqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜oder｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 200,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 50,
+          "like_count": 668,
+          "listed_count": 6,
+          "media_count": 83,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

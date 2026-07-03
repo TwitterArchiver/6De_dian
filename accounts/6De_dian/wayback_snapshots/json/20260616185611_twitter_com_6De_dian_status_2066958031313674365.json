@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2066957370018898428",
+    "created_at": "2026-06-16T18:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066958031313674365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066958031313674365",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066957370018898428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 卧槽主人我也是直接被你帅哭了。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066957360896327680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9OxL4awAACSf4.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2066957370018898428",
+        "created_at": "2026-06-16T18:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066958031313674365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066958031313674365",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066957370018898428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 卧槽主人我也是直接被你帅哭了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066957360896327680"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2066957370018898428",
+        "created_at": "2026-06-16T18:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066957370018898428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWZrzr9eGI",
+              "end": 32,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2066957370018898428/photo/1",
+              "media_key": "3_2066957360896327680",
+              "start": 9,
+              "url": "https://t.co/RWZrzr9eGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066957370018898428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神他妈的。这啥阴 https://t.co/RWZrzr9eGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n可以私信我呀我很喜欢交朋友",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 184,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 315
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。可以互fo，我会查成分回关。",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2058636529761964280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065774972472344576/pRvlbEiB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 403,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 485
+        },
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

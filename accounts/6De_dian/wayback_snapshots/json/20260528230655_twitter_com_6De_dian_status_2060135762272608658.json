@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2059538750347128962",
+    "created_at": "2026-05-28T23:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060135762272608658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2011376335831351296",
+          "start": 0,
+          "username": "rrei44092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060135762272608658",
+    "in_reply_to_user_id": "2011376335831351296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060113958783291724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rrei44092 这个真是回家了（）（物理）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059538750347128962",
+        "created_at": "2026-05-28T23:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060135762272608658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2011376335831351296",
+              "start": 0,
+              "username": "rrei44092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060135762272608658",
+        "in_reply_to_user_id": "2011376335831351296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060113958783291724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rrei44092 这个真是回家了（）（物理）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011376335831351296",
+        "conversation_id": "2059538750347128962",
+        "created_at": "2026-05-28T21:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060113958783291724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060113958783291724",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059538750347128962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 南宁第五人民医院欢迎加入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 120,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 125
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T09:54:44.000Z",
+        "description": "07.8.13\n💊🔪☺️\n重生。\n一个戏剧里的导演和旁观者。",
+        "id": "2011376335831351296",
+        "name": "Rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043240804895109120/TIyPsLBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 272,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "rrei44092",
+        "verified": false
+      }
+    ]
+  }
+}

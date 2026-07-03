@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2067770603549995184",
+    "created_at": "2026-06-19T00:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067770603549995184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwww68244220/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wwww68244220/status/2063484515415183631",
+          "start": 10,
+          "url": "https://t.co/QSNml0258c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067770603549995184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063484515415183631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭我也想和人一起玩 https://t.co/QSNml0258c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2063484501443964928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL4OKQXcAAps36.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2067770603549995184",
+        "created_at": "2026-06-19T00:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067770603549995184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwww68244220/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wwww68244220/status/2063484515415183631",
+              "start": 10,
+              "url": "https://t.co/QSNml0258c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067770603549995184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063484515415183631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭我也想和人一起玩 https://t.co/QSNml0258c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063484501443964928"
+          ]
+        },
+        "author_id": "1449559814242123777",
+        "conversation_id": "2063484515415183631",
+        "created_at": "2026-06-07T04:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063484515415183631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFpm4mHkDS",
+              "end": 37,
+              "expanded_url": "https://x.com/wwww68244220/status/2063484515415183631/photo/1",
+              "media_key": "3_2063484501443964928",
+              "start": 14,
+              "url": "https://t.co/yFpm4mHkDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063484515415183631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31797,
+          "like_count": 155,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我的受欢迎程度belike https://t.co/yFpm4mHkDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜oder｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 198,
+          "like_count": 2826,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T02:16:17.000Z",
+        "description": "可🚪，私信会看，门后是纯绿而且很无聊。介意慎加。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9C%A8%E9%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9C%A8%E9%9B%A8%E4%B8%8A",
+                "start": 0,
+                "url": "https://t.co/rvesztzEUZ"
+              }
+            ]
+          }
+        },
+        "id": "1449559814242123777",
+        "location": "1km",
+        "name": "wwww",
+        "pinned_tweet_id": "2063416691648815481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057847108271513600/l1dURT_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 172,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/rvesztzEUZ",
+        "username": "wwww68244220",
+        "verified": false
+      }
+    ]
+  }
+}

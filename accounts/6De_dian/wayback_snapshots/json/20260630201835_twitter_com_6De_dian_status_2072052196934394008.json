@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2072052196934394008",
+    "created_at": "2026-06-30T20:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T21:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072052196934394008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llpipi/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/llpipi/status/2071914300042563943",
+          "start": 15,
+          "url": "https://t.co/kTxDnloRXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072052196934394008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071914300042563943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我受不了了第一眼看成了孙笑川 https://t.co/kTxDnloRXG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1329,
+        "media_key": "3_2071914292576653312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDrElYWEAAG855.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2072052196934394008",
+        "created_at": "2026-06-30T20:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072052196934394008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llpipi/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/llpipi/status/2071914300042563943",
+              "start": 15,
+              "url": "https://t.co/kTxDnloRXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072052196934394008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071914300042563943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我受不了了第一眼看成了孙笑川 https://t.co/kTxDnloRXG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071914292576653312"
+          ]
+        },
+        "author_id": "1979698494316138496",
+        "conversation_id": "2071914300042563943",
+        "created_at": "2026-06-30T11:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071914300042563943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1N07hV1fi",
+              "end": 23,
+              "expanded_url": "https://x.com/llpipi/status/2071914300042563943/photo/1",
+              "media_key": "3_2071914292576653312",
+              "start": 0,
+              "url": "https://t.co/O1N07hV1fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071914300042563943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 33063,
+          "like_count": 3345,
+          "quote_count": 24,
+          "reply_count": 2,
+          "retweet_count": 856
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O1N07hV1fi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 340,
+          "like_count": 6513,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1121
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T23:58:13.000Z",
+        "description": "Visuals from the other side",
+        "id": "1979698494316138496",
+        "name": "BMW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022587898940608512/XzCdZk-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16806,
+          "following_count": 0,
+          "like_count": 8543,
+          "listed_count": 22,
+          "media_count": 3717,
+          "tweet_count": 4788
+        },
+        "url": "",
+        "username": "llpipi",
+        "verified": true
+      }
+    ]
+  }
+}

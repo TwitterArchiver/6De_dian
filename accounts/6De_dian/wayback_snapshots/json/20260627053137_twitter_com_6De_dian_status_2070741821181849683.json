@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2070448751962165396",
+    "created_at": "2026-06-27T05:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070741821181849683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2007800241484115968",
+          "start": 0,
+          "username": "OWO_7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070741821181849683",
+    "in_reply_to_user_id": "2007800241484115968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070448751962165396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OWO_7x 虾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2070448749613293569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu2KwZaIAE5ZJa.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2070448751962165396",
+        "created_at": "2026-06-27T05:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741821181849683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2007800241484115968",
+              "start": 0,
+              "username": "OWO_7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741821181849683",
+        "in_reply_to_user_id": "2007800241484115968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070448751962165396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OWO_7x 虾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070448749613293569"
+          ]
+        },
+        "author_id": "2007800241484115968",
+        "conversation_id": "2070448751962165396",
+        "created_at": "2026-06-26T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070448751962165396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LK8CN8az74",
+              "end": 57,
+              "expanded_url": "https://x.com/OWO_7x/status/2070448751962165396/photo/1",
+              "media_key": "3_2070448749613293569",
+              "start": 34,
+              "url": "https://t.co/LK8CN8az74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070448751962165396",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 747,
+          "impression_count": 856574,
+          "like_count": 14836,
+          "quote_count": 7866,
+          "reply_count": 840,
+          "retweet_count": 791
+        },
+        "reply_settings": "everyone",
+        "text": "당신은 마지막으로 먹은 음식의 이름을 이 새한테 붙여야합니다 https://t.co/LK8CN8az74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来，该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 243,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:26.000Z",
+        "description": "#롄",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "롄"
+              }
+            ]
+          }
+        },
+        "id": "2007800241484115968",
+        "name": "소베A",
+        "pinned_tweet_id": "2070731163225006295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042861104762892288/6okWrmyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 445,
+          "like_count": 33983,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 7719
+        },
+        "url": "",
+        "username": "OWO_7x",
+        "verified": false
+      }
+    ]
+  }
+}

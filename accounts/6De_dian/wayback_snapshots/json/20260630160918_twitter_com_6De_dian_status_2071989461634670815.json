@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071646934851555669",
+    "created_at": "2026-06-30T16:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071989461634670815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1976976628929740800",
+          "start": 0,
+          "username": "ns7ENo1Djy6246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071989461634670815",
+    "in_reply_to_user_id": "1976976628929740800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071646934851555669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ns7ENo1Djy6246 卧槽这个真的爽麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071646934851555669",
+        "created_at": "2026-06-30T16:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071989461634670815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1976976628929740800",
+              "start": 0,
+              "username": "ns7ENo1Djy6246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071989461634670815",
+        "in_reply_to_user_id": "1976976628929740800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071646934851555669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ns7ENo1Djy6246 卧槽这个真的爽麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976976628929740800",
+        "conversation_id": "2071646934851555669",
+        "created_at": "2026-06-29T17:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071646934851555669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071646934851555669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枇杷露配普瑞给我爽麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 321,
+          "like_count": 6271,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1081
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:42:22.000Z",
+        "description": "我是一个乐子逼。恩、\nod｜自伤｜抑郁｜焦虑｜全部友好喵，欢迎互fo",
+        "id": "1976976628929740800",
+        "location": "天国",
+        "name": "cry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907976412807168/0ufRfAYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "ns7ENo1Djy6246",
+        "verified": false
+      }
+    ]
+  }
+}

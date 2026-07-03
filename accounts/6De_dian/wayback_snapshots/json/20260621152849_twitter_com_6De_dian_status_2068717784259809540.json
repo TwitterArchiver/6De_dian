@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068717784259809540",
+    "created_at": "2026-06-21T15:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068717784259809540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964331185590718464",
+          "start": 3,
+          "username": "breakcoreWTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068717784259809540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068498998105985298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @breakcoreWTF: 严禁任何人碰加巴喷丁类药物！\n\n加巴喷丁、普瑞巴林、美洛加巴林等，一律禁碰！加巴喷丁类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为加巴喷丁而活的“加巴鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068717784259809540",
+        "created_at": "2026-06-21T15:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068717784259809540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964331185590718464",
+              "start": 3,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068717784259809540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068498998105985298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @breakcoreWTF: 严禁任何人碰加巴喷丁类药物！\n\n加巴喷丁、普瑞巴林、美洛加巴林等，一律禁碰！加巴喷丁类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为加巴喷丁而活的“加巴鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2068498998105985298",
+        "created_at": "2026-06-21T00:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068498998105985298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ta1z19/status/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Ta1z19/status/2068224932438532169",
+              "start": 143,
+              "url": "https://t.co/zsy9RQ6F4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068498998105985298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7603,
+          "like_count": 52,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068224932438532169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰加巴喷丁类药物！\n\n加巴喷丁、普瑞巴林、美洛加巴林等，一律禁碰！加巴喷丁类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为加巴喷丁而活的“加巴鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾加巴喷丁类！ https://t.co/zsy9RQ6F4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 205,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 717,
+          "like_count": 19926,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 5180
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

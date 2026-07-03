@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2066132273510900102",
+    "created_at": "2026-06-14T12:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066132273510900102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fortearsidie/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/fortearsidie/status/2066106259049463895",
+          "start": 5,
+          "url": "https://t.co/mjoId6W71a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066132273510900102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066106259049463895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个可以 https://t.co/mjoId6W71a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2066106243740209152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxIrpZaEAAeUJF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2066132273510900102",
+        "created_at": "2026-06-14T12:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066132273510900102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fortearsidie/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/fortearsidie/status/2066106259049463895",
+              "start": 5,
+              "url": "https://t.co/mjoId6W71a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066132273510900102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066106259049463895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个可以 https://t.co/mjoId6W71a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066106243740209152"
+          ]
+        },
+        "author_id": "1991795014163382272",
+        "conversation_id": "2066106259049463895",
+        "created_at": "2026-06-14T10:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066106259049463895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhSIYrkiH0",
+              "end": 34,
+              "expanded_url": "https://x.com/fortearsidie/status/2066106259049463895/photo/1",
+              "media_key": "3_2066106243740209152",
+              "start": 11,
+              "url": "https://t.co/PhSIYrkiH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066106259049463895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "躲超市后门OD的二人 https://t.co/PhSIYrkiH0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 158,
+          "like_count": 2247,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 250
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 464,
+          "like_count": 7604,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 196
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

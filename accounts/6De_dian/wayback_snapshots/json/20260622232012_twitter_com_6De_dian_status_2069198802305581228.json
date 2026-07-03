@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2069100242549780653",
+    "created_at": "2026-06-22T23:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T00:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069198802305581228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1461243076039655429",
+          "start": 0,
+          "username": "Nd1079357283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069198802305581228",
+    "in_reply_to_user_id": "1461243076039655429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069100242549780653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nd1079357283 萌萌——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2069100229723615235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbrskVa8AMXuUj.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2069100242549780653",
+        "created_at": "2026-06-22T23:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069198802305581228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1461243076039655429",
+              "start": 0,
+              "username": "Nd1079357283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069198802305581228",
+        "in_reply_to_user_id": "1461243076039655429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069100242549780653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nd1079357283 萌萌——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069100229723615235"
+          ]
+        },
+        "author_id": "1461243076039655429",
+        "conversation_id": "2069100242549780653",
+        "created_at": "2026-06-22T16:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069100242549780653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyYoZ9KKnh",
+              "end": 23,
+              "expanded_url": "https://x.com/Nd1079357283/status/2069100242549780653/photo/1",
+              "media_key": "3_2069100229723615235",
+              "start": 0,
+              "url": "https://t.co/nyYoZ9KKnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069100242549780653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1161,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nyYoZ9KKnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天将一切重新来该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 210,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T08:01:21.000Z",
+        "description": "ほとんどの作品は紙に描かれている，\n外国語ができないので通訳を使うのが普通です\n\n喜欢看评论",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/IQMuqbv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/IQMuqbv",
+                "start": 0,
+                "url": "https://t.co/630hewwyw0"
+              }
+            ]
+          }
+        },
+        "id": "1461243076039655429",
+        "location": "🗿",
+        "name": "略nd",
+        "pinned_tweet_id": "2036382592593961326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033484599565983744/MJQk3E_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12813,
+          "following_count": 793,
+          "like_count": 1907,
+          "listed_count": 54,
+          "media_count": 133,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/630hewwyw0",
+        "username": "Nd1079357283",
+        "verified": false
+      }
+    ]
+  }
+}

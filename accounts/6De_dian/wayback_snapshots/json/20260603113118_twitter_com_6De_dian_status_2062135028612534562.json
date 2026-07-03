@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2062135028612534562",
+    "created_at": "2026-06-03T11:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062135028612534562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596794857179459584",
+          "start": 3,
+          "username": "1227uwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/eQ",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/eQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062135028612534562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061991214547927451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1227uwu: 100fo了。！\n虽然完全是因为那个帖子才到的……但是抽个奖吧꜀(˘꒳˘ ꜀)\n一等奖：普瑞巴林2板 or 52CNY*1\n二等奖：20CNY*2\n三等奖：10CNY*3\n参与条件：点赞 转帖 关注 评论\n6.20开奖～ https://t.co/eQ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2061991196147535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2qEWhbUAAop5A.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2062135028612534562",
+        "created_at": "2026-06-03T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062135028612534562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596794857179459584",
+              "start": 3,
+              "username": "1227uwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/eQ",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/eQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062135028612534562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061991214547927451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1227uwu: 100fo了。！\n虽然完全是因为那个帖子才到的……但是抽个奖吧꜀(˘꒳˘ ꜀)\n一等奖：普瑞巴林2板 or 52CNY*1\n二等奖：20CNY*2\n三等奖：10CNY*3\n参与条件：点赞 转帖 关注 评论\n6.20开奖～ https://t.co/eQ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061991196147535872"
+          ]
+        },
+        "author_id": "1596794857179459584",
+        "conversation_id": "2061991214547927451",
+        "created_at": "2026-06-03T01:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061991214547927451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQThg25MJf",
+              "end": 134,
+              "expanded_url": "https://x.com/1227uwu/status/2061991214547927451/photo/1",
+              "media_key": "3_2061991196147535872",
+              "start": 111,
+              "url": "https://t.co/eQThg25MJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061991214547927451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1575,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了。！\n虽然完全是因为那个帖子才到的……但是抽个奖吧꜀(˘꒳˘ ꜀)\n一等奖：普瑞巴林2板 or 52CNY*1\n二等奖：20CNY*2\n三等奖：10CNY*3\n参与条件：点赞 转帖 关注 评论\n6.20开奖～ https://t.co/eQThg25MJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 137,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 173
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜泛性恋｜友跨｜自残🈶 | 精神状态不是很良好｜可以私信互fo但是我会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 72,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 139
+        },
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

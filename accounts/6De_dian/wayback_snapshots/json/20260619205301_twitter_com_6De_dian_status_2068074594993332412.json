@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067997149204537345"
+      ],
+      "media_source_tweet_id": [
+        "2067997153713332695"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068074594993332412",
+    "created_at": "2026-06-19T20:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068074594993332412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "827117962280660992",
+          "start": 3,
+          "username": "deguretyaf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JL6ZdI0xlM",
+          "end": 47,
+          "expanded_url": "https://x.com/deguretyaf/status/2067997153713332695/photo/1",
+          "media_key": "3_2067997149204537345",
+          "start": 24,
+          "url": "https://t.co/JL6ZdI0xlM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068074594993332412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 168
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067997153713332695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deguretyaf: 対比がすごい。 https://t.co/JL6ZdI0xlM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2067997149204537345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMAc1LbYAEbYjZ.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067997149204537345"
+          ],
+          "media_source_tweet_id": [
+            "2067997153713332695"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068074594993332412",
+        "created_at": "2026-06-19T20:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068074594993332412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "827117962280660992",
+              "start": 3,
+              "username": "deguretyaf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JL6ZdI0xlM",
+              "end": 47,
+              "expanded_url": "https://x.com/deguretyaf/status/2067997153713332695/photo/1",
+              "media_key": "3_2067997149204537345",
+              "start": 24,
+              "url": "https://t.co/JL6ZdI0xlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068074594993332412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 168
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067997153713332695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deguretyaf: 対比がすごい。 https://t.co/JL6ZdI0xlM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067997149204537345"
+          ]
+        },
+        "author_id": "827117962280660992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067997153713332695",
+        "created_at": "2026-06-19T15:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067997153713332695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JL6ZdI0xlM",
+              "end": 31,
+              "expanded_url": "https://x.com/deguretyaf/status/2067997153713332695/photo/1",
+              "media_key": "3_2067997149204537345",
+              "start": 8,
+              "url": "https://t.co/JL6ZdI0xlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067997153713332695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 26477,
+          "like_count": 2231,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "対比がすごい。 https://t.co/JL6ZdI0xlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 204,
+          "like_count": 3007,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 396
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-02T11:34:24.000Z",
+        "description": "絵がとても好きでよく徘徊しております  Limbus Companyやアークナイツなど　　　　   ゲームが大好きでよくプレイしており 声優などの話題もとても好ましく くだらないものを 作っては流しており大変お目汚しを失礼いたします。",
+        "id": "827117962280660992",
+        "location": "図書館のせいでピアノを見るたびに狂う",
+        "name": "人間産業廃棄物",
+        "pinned_tweet_id": "2001233465136832918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321057384551206914/SWqSj99Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129217,
+          "following_count": 123766,
+          "like_count": 20852,
+          "listed_count": 210,
+          "media_count": 13513,
+          "tweet_count": 299828
+        },
+        "url": "",
+        "username": "deguretyaf",
+        "verified": false
+      }
+    ]
+  }
+}

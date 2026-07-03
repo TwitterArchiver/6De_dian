@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2066139569540432070",
+    "created_at": "2026-06-14T17:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066209767807242739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054410525854072832",
+          "start": 0,
+          "username": "Yang1shuai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066209767807242739",
+    "in_reply_to_user_id": "2054410525854072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066207692168073443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang1shuai2 那要很高的剂量了呀，我主要是用来激活多巴胺系统，一般都是3mg以内的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2066139569540432070",
+        "created_at": "2026-06-14T17:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066209767807242739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054410525854072832",
+              "start": 0,
+              "username": "Yang1shuai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066209767807242739",
+        "in_reply_to_user_id": "2054410525854072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066207692168073443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang1shuai2 那要很高的剂量了呀，我主要是用来激活多巴胺系统，一般都是3mg以内的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054410525854072832",
+        "conversation_id": "2066139569540432070",
+        "created_at": "2026-06-14T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066207692168073443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066207692168073443",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066139569540432070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 普拉克索刚刚我在看...好像能致幻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 167,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 277
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T03:58:12.000Z",
+        "description": "Oder 策划药 双相 实验",
+        "id": "2054410525854072832",
+        "name": "Mr.me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066204021019578368/2ZfhzXkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 49,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Yang1shuai2",
+        "verified": false
+      }
+    ]
+  }
+}

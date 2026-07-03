@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2058894535489732610",
+    "created_at": "2026-05-25T13:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058901307587465511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "TLW7cobqvw41206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058901307587465511",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058894535489732610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TLW7cobqvw41206 不要啊。。加巴给我立刻发力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2058894535489732610",
+        "created_at": "2026-05-25T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058901307587465511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "TLW7cobqvw41206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058901307587465511",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058894535489732610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TLW7cobqvw41206 不要啊。。加巴给我立刻发力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2058894535489732610",
+        "created_at": "2026-05-25T12:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058894535489732610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058894535489732610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃加巴药效好弱，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 70,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。10。同类可以互fo，我比较内向不太会说话。。",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058873631154057216/0JE9Aa8N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 275,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 115
+        },
+        "username": "TLW7cobqvw41206",
+        "verified": false
+      }
+    ]
+  }
+}

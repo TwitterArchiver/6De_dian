@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2070572485784002715",
+    "created_at": "2026-06-27T05:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070741054228238699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729831830214344704",
+          "start": 0,
+          "username": "qiqi61595220678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070741054228238699",
+    "in_reply_to_user_id": "1729831830214344704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070572485784002715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi61595220678 想嗑药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2070572485784002715",
+        "created_at": "2026-06-27T05:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741054228238699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1729831830214344704",
+              "start": 0,
+              "username": "qiqi61595220678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741054228238699",
+        "in_reply_to_user_id": "1729831830214344704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070572485784002715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi61595220678 想嗑药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729831830214344704",
+        "conversation_id": "2070572485784002715",
+        "created_at": "2026-06-26T18:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070572485784002715"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070572485784002715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3647,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着，想那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来，该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 243,
+          "like_count": 4561,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:57:10.000Z",
+        "description": "",
+        "id": "1729831830214344704",
+        "name": "Qiiquq",
+        "pinned_tweet_id": "2022006402068488489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862102195555995648/BAiZzT5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 77,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "qiqi61595220678",
+        "verified": false
+      }
+    ]
+  }
+}

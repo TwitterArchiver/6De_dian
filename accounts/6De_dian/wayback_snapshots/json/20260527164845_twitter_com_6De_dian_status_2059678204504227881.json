@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2059488580225946020",
+    "created_at": "2026-05-27T16:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059678204504227881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329352754922450952",
+          "start": 0,
+          "username": "JeremyMastroja1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059678204504227881",
+    "in_reply_to_user_id": "1329352754922450952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059676774775087614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeremyMastroja1 药效增强！（巴氯芬和加巴喷丁化学式很像，据说会达到1+1&gt;2的效果，但是也会加强成瘾）很明显的感到身体颤抖，腿抖，走路有点麻麻的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059488580225946020",
+        "created_at": "2026-05-27T16:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059678204504227881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329352754922450952",
+              "start": 0,
+              "username": "JeremyMastroja1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059678204504227881",
+        "in_reply_to_user_id": "1329352754922450952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059676774775087614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeremyMastroja1 药效增强！（巴氯芬和加巴喷丁化学式很像，据说会达到1+1&gt;2的效果，但是也会加强成瘾）很明显的感到身体颤抖，腿抖，走路有点麻麻的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329352754922450952",
+        "conversation_id": "2059488580225946020",
+        "created_at": "2026-05-27T16:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059676774775087614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059676774775087614",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059488580225946020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 话说加了巴氯芬什么感觉？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 102,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T09:16:37.000Z",
+        "description": "重焦中抑 | 自伤od | 日高生 |",
+        "id": "1329352754922450952",
+        "name": "ハル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751092675891200/CPLGw6G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "username": "JeremyMastroja1",
+        "verified": false
+      }
+    ]
+  }
+}

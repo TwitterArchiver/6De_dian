@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2067945511802294630",
+    "created_at": "2026-06-19T12:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067945799238001115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067945799238001115",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067945511802294630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我卢关怎么画这么屌。我真爱上了这张好可爱啊。。她甚至没画完呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2067945333502443520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLRUwpXAAAW0n8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2067945511802294630",
+        "created_at": "2026-06-19T12:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067945799238001115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067945799238001115",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067945511802294630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我卢关怎么画这么屌。我真爱上了这张好可爱啊。。她甚至没画完呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067945333502443520"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2067945511802294630",
+        "created_at": "2026-06-19T12:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067945511802294630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itWhsreRbS",
+              "end": 50,
+              "expanded_url": "https://x.com/6De_dian/status/2067945511802294630/photo/1",
+              "media_key": "3_2067945333502443520",
+              "start": 27,
+              "url": "https://t.co/itWhsreRbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067945511802294630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和户管的py。。哎呀小66好萌好阔耐我力了🤤🤤🤤🤤🤤 https://t.co/itWhsreRbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜oder｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 202,
+          "like_count": 2933,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

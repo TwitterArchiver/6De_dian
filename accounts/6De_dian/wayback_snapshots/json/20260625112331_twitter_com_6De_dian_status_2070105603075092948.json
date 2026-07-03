@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070105566597246977"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2070105603075092948",
+    "created_at": "2026-06-25T11:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070105603075092948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i3zsQnkaW9",
+          "end": 57,
+          "expanded_url": "https://x.com/6De_dian/status/2070105603075092948/photo/1",
+          "media_key": "3_2070105566597246977",
+          "start": 34,
+          "url": "https://t.co/i3zsQnkaW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070105603075092948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "湖，卧槽啊啊啊我在拍照的时候被人叫住了，以为我是高考生没考好要跳湖 https://t.co/i3zsQnkaW9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070105566597246977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp-C4CWcAE0zM-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070105566597246977"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2070105603075092948",
+        "created_at": "2026-06-25T11:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070105603075092948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3zsQnkaW9",
+              "end": 57,
+              "expanded_url": "https://x.com/6De_dian/status/2070105603075092948/photo/1",
+              "media_key": "3_2070105566597246977",
+              "start": 34,
+              "url": "https://t.co/i3zsQnkaW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070105603075092948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "湖，卧槽啊啊啊我在拍照的时候被人叫住了，以为我是高考生没考好要跳湖 https://t.co/i3zsQnkaW9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天将一切重新来该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 225,
+          "like_count": 4124,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

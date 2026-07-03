@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2072717681287938084",
+    "created_at": "2026-07-02T17:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072737947477025040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780831626991460352",
+          "start": 0,
+          "username": "baozhasuiboli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072737947477025040",
+    "in_reply_to_user_id": "1780831626991460352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072737372748620148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozhasuiboli 哎呀我是联用的，总之好欣快好高兴。。单是甘草片达不到这种地步吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2072717681287938084",
+        "created_at": "2026-07-02T17:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072737947477025040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780831626991460352",
+              "start": 0,
+              "username": "baozhasuiboli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072737947477025040",
+        "in_reply_to_user_id": "1780831626991460352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072737372748620148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozhasuiboli 哎呀我是联用的，总之好欣快好高兴。。单是甘草片达不到这种地步吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780831626991460352",
+        "conversation_id": "2072717681287938084",
+        "created_at": "2026-07-02T17:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072737372748620148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072737372748620148",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072717681287938084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 啊啊啊我也想试试甘草片 现在怎么样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 349,
+          "like_count": 7121,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:32:08.000Z",
+        "description": "和很阳光开朗的妹子聊不来，铁t和健身t勿扰，纯绿🚪52",
+        "id": "1780831626991460352",
+        "location": "Macau",
+        "name": "嗜睡症患者8号",
+        "pinned_tweet_id": "2022098515745509785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066131758740045824/8L_P-Pfv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 45,
+          "like_count": 5336,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "baozhasuiboli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071795315662111222",
+    "created_at": "2026-06-30T07:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T08:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071858168523632649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809885957312901120",
+          "start": 0,
+          "username": "zhu1896074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071858168523632649",
+    "in_reply_to_user_id": "1809885957312901120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071795315662111222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu1896074 虾自由惹，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071795292782133248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB-14mbAAA5RWy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071795292782157824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB-14mbYAACoku.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071795315662111222",
+        "created_at": "2026-06-30T07:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071858168523632649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809885957312901120",
+              "start": 0,
+              "username": "zhu1896074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071858168523632649",
+        "in_reply_to_user_id": "1809885957312901120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071795315662111222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu1896074 虾自由惹，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071795292782133248",
+            "3_2071795292782157824"
+          ]
+        },
+        "author_id": "1809885957312901120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071795315662111222",
+        "created_at": "2026-06-30T03:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T04:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071795315662111222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DupLqDFkM1",
+              "end": 29,
+              "expanded_url": "https://x.com/zhu1896074/status/2071795315662111222/photo/1",
+              "media_key": "3_2071795292782133248",
+              "start": 6,
+              "url": "https://t.co/DupLqDFkM1"
+            },
+            {
+              "display_url": "pic.x.com/DupLqDFkM1",
+              "end": 29,
+              "expanded_url": "https://x.com/zhu1896074/status/2071795315662111222/photo/1",
+              "media_key": "3_2071795292782157824",
+              "start": 6,
+              "url": "https://t.co/DupLqDFkM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071795315662111222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……….. https://t.co/DupLqDFkM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 317,
+          "like_count": 6108,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1043
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "ⓘ該賬戶因違反規定，已被禁言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1b239c",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1b239c",
+                "start": 0,
+                "url": "https://t.co/kxmkUboc5s"
+              }
+            ]
+          }
+        },
+        "id": "1809885957312901120",
+        "name": "null",
+        "pinned_tweet_id": "2071617343109886111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071831835890302976/OPFCHrtB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 44,
+          "like_count": 7028,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/kxmkUboc5s",
+        "username": "zhu1896074",
+        "verified": false
+      }
+    ]
+  }
+}

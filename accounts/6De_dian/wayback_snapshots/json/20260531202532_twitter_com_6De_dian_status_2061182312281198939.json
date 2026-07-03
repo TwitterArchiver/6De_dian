@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2061182312281198939",
+    "created_at": "2026-05-31T20:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T21:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061182312281198939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051968572315115521",
+          "start": 3,
+          "username": "Yummeizzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061182312281198939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061125578024165469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yummeizzz: 文本内容，因为中文打出来太尴尬了所以用了英文\n🎡: Can we make up, sis?\n🌙: Make up? Why are you talking in that fake, high-pitched voice?\n🎡: Because…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20375,
+        "height": 1030,
+        "media_key": "13_2061125517949227008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061125517949227008/img/fywKglSlRhyWl_XM.jpg",
+        "public_metrics": {
+          "view_count": 157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061125517949227008/vid/avc1/320x456/9gYcV7Y08kjfp6Kg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061125517949227008/vid/avc1/480x686/ul7R4JwqfwmudSVf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061125517949227008/vid/avc1/720x1030/wEHoZlGCWqVvJCnb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061125517949227008/pl/6_06MU6XdXaFFp3u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2061182312281198939",
+        "created_at": "2026-05-31T20:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061182312281198939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051968572315115521",
+              "start": 3,
+              "username": "Yummeizzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061182312281198939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061125578024165469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yummeizzz: 文本内容，因为中文打出来太尴尬了所以用了英文\n🎡: Can we make up, sis?\n🌙: Make up? Why are you talking in that fake, high-pitched voice?\n🎡: Because…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061125517949227008"
+          ]
+        },
+        "author_id": "2051968572315115521",
+        "conversation_id": "2061125578024165469",
+        "created_at": "2026-05-31T16:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061125578024165469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 250,
+              "start": 242,
+              "tag": "Donbari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CedyX95UCB",
+              "end": 274,
+              "expanded_url": "https://x.com/Yummeizzz/status/2061125578024165469/video/1",
+              "media_key": "13_2061125517949227008",
+              "start": 251,
+              "url": "https://t.co/CedyX95UCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061125578024165469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 491,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "文本内容，因为中文打出来太尴尬了所以用了英文\n🎡: Can we make up, sis?\n🌙: Make up? Why are you talking in that fake, high-pitched voice?\n🎡: Because my throat is hoarse.\n🌙: Can I hear what your normal voice sounds like?\n🎡: Okay... sis (in a deep voice).\n🌙: Hahahaha.\n#Donbari https://t.co/CedyX95UCB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 138,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 168
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T10:14:18.000Z",
+        "description": "🎡🌙\n暂时没有发其他东西的想法",
+        "id": "2051968572315115521",
+        "name": "Yummeizzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051968958262329344/g5mOO57p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 20,
+          "like_count": 29,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 32
+        },
+        "username": "Yummeizzz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071902817602969738",
+    "created_at": "2026-06-30T15:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071984019181281630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614311887419887616",
+          "start": 0,
+          "username": "lion040317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071984019181281630",
+    "in_reply_to_user_id": "1614311887419887616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071902817602969738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lion040317 宝宝这两种算不上相同类型的药呢🥺\n颠茄片在控制剂量方面比晚安不可控，很容易过量…\n（而且如果使用这个几乎算是神农了吧…？！感觉案例好少）\n毒性和危险性也高上很多诶…\n（致幻的话感觉也比不上苯海拉明吧…这个药被害妄想太严重了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071902817602969738",
+        "created_at": "2026-06-30T15:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071984019181281630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614311887419887616",
+              "start": 0,
+              "username": "lion040317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071984019181281630",
+        "in_reply_to_user_id": "1614311887419887616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071902817602969738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lion040317 宝宝这两种算不上相同类型的药呢🥺\n颠茄片在控制剂量方面比晚安不可控，很容易过量…\n（而且如果使用这个几乎算是神农了吧…？！感觉案例好少）\n毒性和危险性也高上很多诶…\n（致幻的话感觉也比不上苯海拉明吧…这个药被害妄想太严重了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614311887419887616",
+        "conversation_id": "2071902817602969738",
+        "created_at": "2026-06-30T10:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071902817602969738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071902817602969738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇购买了颠茄片……服用多少能刚好触发谵妄呢……之前吃晚安12t就有明显的带剧情的内幻了，谁能帮我解答一下下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 321,
+          "like_count": 6242,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-14T17:22:16.000Z",
+        "description": "04/女/短发。恶趣味十足 吉林/不成熟的穿孔师，欢迎找我做模特捏，任何位置仅5r材料费。脾气很好^ ^，请和我闲聊~",
+        "id": "1614311887419887616",
+        "location": "地下18层",
+        "name": "lion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071271151574380544/oc5NYjGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "lion040317",
+        "verified": false
+      }
+    ]
+  }
+}

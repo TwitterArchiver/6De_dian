@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071203079765012978",
+    "created_at": "2026-06-28T12:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071203079765012978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809885957312901120",
+          "start": 3,
+          "username": "zhu1896074"
+        },
+        {
+          "end": 24,
+          "id": "2055263152238198784",
+          "start": 16,
+          "username": "Reiau9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071203079765012978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071175024158077197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhu1896074: @Reiau9e 我今天最黑暗的是看到這條推文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071203079765012978",
+        "created_at": "2026-06-28T12:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071203079765012978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809885957312901120",
+              "start": 3,
+              "username": "zhu1896074"
+            },
+            {
+              "end": 24,
+              "id": "2055263152238198784",
+              "start": 16,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071203079765012978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071175024158077197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhu1896074: @Reiau9e 我今天最黑暗的是看到這條推文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809885957312901120",
+        "conversation_id": "2071134491394068595",
+        "created_at": "2026-06-28T10:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071175024158077197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055263152238198784",
+              "start": 0,
+              "username": "Reiau9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071175024158077197",
+        "in_reply_to_user_id": "2055263152238198784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071134491394068595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiau9e 我今天最黑暗的是看到這條推文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070938137908350976/jhYAeTR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 271,
+          "like_count": 5279,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "ⓘ該賬戶因違反規定，已被禁言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1b239c",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1b239c",
+                "start": 0,
+                "url": "https://t.co/kxmkUboc5s"
+              }
+            ]
+          }
+        },
+        "id": "1809885957312901120",
+        "name": "null",
+        "pinned_tweet_id": "2070797295084605921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067733944456687616/gG_f1Ct7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 43,
+          "like_count": 6495,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/kxmkUboc5s",
+        "username": "zhu1896074",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T12:25:25.000Z",
+        "description": "保卫胡言乱语",
+        "id": "2055263152238198784",
+        "name": "rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061638515864346625/3yEXkh-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 679,
+          "like_count": 6626,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "Reiau9e",
+        "verified": false
+      }
+    ]
+  }
+}

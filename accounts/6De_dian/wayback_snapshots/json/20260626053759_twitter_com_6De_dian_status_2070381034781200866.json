@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2070381034781200866",
+    "created_at": "2026-06-26T05:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070381034781200866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TopGyaru/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/TopGyaru/status/2070258058006290640",
+          "start": 11,
+          "url": "https://t.co/2XSsotpnYE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070381034781200866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070258058006290640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有好东西要和大家分享 https://t.co/2XSsotpnYE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2070257951064104961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsIo0aaoAE8S56.png",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2070381034781200866",
+        "created_at": "2026-06-26T05:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070381034781200866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TopGyaru/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/TopGyaru/status/2070258058006290640",
+              "start": 11,
+              "url": "https://t.co/2XSsotpnYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070381034781200866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070258058006290640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有好东西要和大家分享 https://t.co/2XSsotpnYE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070257951064104961"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070258058006290640",
+        "created_at": "2026-06-25T21:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070258058006290640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBQgKAdmTT",
+              "end": 60,
+              "expanded_url": "https://x.com/TopGyaru/status/2070258058006290640/photo/1",
+              "media_key": "3_2070257951064104961",
+              "start": 37,
+              "url": "https://t.co/rBQgKAdmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070258058006290640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2471,
+          "impression_count": 756270,
+          "like_count": 20533,
+          "quote_count": 568,
+          "reply_count": 1032,
+          "retweet_count": 905
+        },
+        "reply_settings": "everyone",
+        "text": "Who's the target audience of this??? https://t.co/rBQgKAdmTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天将一切重新来该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 229,
+          "like_count": 4316,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277019,
+          "following_count": 1408,
+          "like_count": 145328,
+          "listed_count": 499,
+          "media_count": 10545,
+          "tweet_count": 28528
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2072003373037924558",
+    "created_at": "2026-06-30T17:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072003373037924558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu_lu43456/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/liu_lu43456/status/2071501679212855766",
+          "start": 18,
+          "url": "https://t.co/DwkkYTf00y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072003373037924558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071501679212855766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈绷不住了我现生5年亲友叫猫草 https://t.co/DwkkYTf00y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071501671243612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9zy3IagAA8Dsj.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2072003373037924558",
+        "created_at": "2026-06-30T17:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072003373037924558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_lu43456/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/liu_lu43456/status/2071501679212855766",
+              "start": 18,
+              "url": "https://t.co/DwkkYTf00y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072003373037924558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071501679212855766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈绷不住了我现生5年亲友叫猫草 https://t.co/DwkkYTf00y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071501671243612160"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "conversation_id": "2071501679212855766",
+        "created_at": "2026-06-29T07:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071501679212855766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw0KJib70S",
+              "end": 37,
+              "expanded_url": "https://x.com/liu_lu43456/status/2071501679212855766/photo/1",
+              "media_key": "3_2071501671243612160",
+              "start": 14,
+              "url": "https://t.co/uw0KJib70S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071501679212855766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3474,
+          "like_count": 52,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给我喂点，我不报警，我爱吃 https://t.co/uw0KJib70S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 333,
+          "like_count": 6339,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "location": "石家庄市",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2032181190757634518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065994757302566912/A2aCzvVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 148,
+          "like_count": 442,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 2658
+        },
+        "url": "",
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

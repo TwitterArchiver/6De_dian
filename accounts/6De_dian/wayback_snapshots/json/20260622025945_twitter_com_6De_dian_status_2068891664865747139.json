@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068680598105784636",
+    "created_at": "2026-06-22T02:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T03:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068891664865747139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2043043365705662464",
+          "start": 0,
+          "username": "life4dead1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068891664865747139",
+    "in_reply_to_user_id": "2043043365705662464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068880839782367493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life4dead1127 啊啊啊我竟然画了这么多。。。（懵逼）贴贴老大呀ww！🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068680598105784636",
+        "created_at": "2026-06-22T02:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068891664865747139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2043043365705662464",
+              "start": 0,
+              "username": "life4dead1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068891664865747139",
+        "in_reply_to_user_id": "2043043365705662464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068880839782367493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life4dead1127 啊啊啊我竟然画了这么多。。。（懵逼）贴贴老大呀ww！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043043365705662464",
+        "conversation_id": "2068680598105784636",
+        "created_at": "2026-06-22T02:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068880839782367493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068880839782367493",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068680598105784636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 天呐劳模来了。。辛苦惹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 206,
+          "like_count": 3186,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T19:08:50.000Z",
+        "description": "Ruri/小璃=只互fo同类/餐券/自伤/LGBT友好\n随时都会消失\n欢迎和我交朋友\n男的只有腹肌年上长发男富二代可以私信我",
+        "id": "2043043365705662464",
+        "location": "现在",
+        "name": "RUriri",
+        "pinned_tweet_id": "2066061328632951203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990859201196032/wFVktRq4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 120,
+          "like_count": 3036,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "life4dead1127",
+        "verified": false
+      }
+    ]
+  }
+}

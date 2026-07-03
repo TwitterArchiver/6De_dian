@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2067017477146481041",
+    "created_at": "2026-06-16T22:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T23:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067017477146481041"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067017477146481041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是能和亲友在同一个城市就好了。\n\n然后我就能一直买药什么的乱七八糟…！嗑药嗑药总之一起细度啊啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2067017477146481041",
+        "created_at": "2026-06-16T22:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067017477146481041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067017477146481041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是能和亲友在同一个城市就好了。\n\n然后我就能一直买药什么的乱七八糟…！嗑药嗑药总之一起细度啊啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n可以私信我呀我很喜欢交朋友",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 186,
+          "like_count": 2593,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 321
+        },
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

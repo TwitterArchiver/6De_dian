@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2068911742936084873",
+    "created_at": "2026-06-22T04:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068911742936084873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bimg00240/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bimg00240/status/2068625200690970846",
+          "start": 4,
+          "url": "https://t.co/RteTYaXZqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068911742936084873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068625200690970846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽。 https://t.co/RteTYaXZqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1006,
+        "media_key": "3_2068625198178529280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU7qF7acAA_wDt.jpg",
+        "width": 735
+      },
+      {
+        "height": 454,
+        "media_key": "3_2068625198568685568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU7qHYbwAA-Of5.jpg",
+        "width": 276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2068911742936084873",
+        "created_at": "2026-06-22T04:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068911742936084873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bimg00240/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bimg00240/status/2068625200690970846",
+              "start": 4,
+              "url": "https://t.co/RteTYaXZqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068911742936084873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068625200690970846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽。 https://t.co/RteTYaXZqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068625198178529280",
+            "3_2068625198568685568"
+          ]
+        },
+        "author_id": "2050210427792203776",
+        "conversation_id": "2068625200690970846",
+        "created_at": "2026-06-21T09:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068625200690970846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkDKXBJYc3",
+              "end": 72,
+              "expanded_url": "https://x.com/bimg00240/status/2068625200690970846/photo/1",
+              "media_key": "3_2068625198178529280",
+              "start": 49,
+              "url": "https://t.co/YkDKXBJYc3"
+            },
+            {
+              "display_url": "pic.x.com/YkDKXBJYc3",
+              "end": 72,
+              "expanded_url": "https://x.com/bimg00240/status/2068625200690970846/photo/1",
+              "media_key": "3_2068625198568685568",
+              "start": 49,
+              "url": "https://t.co/YkDKXBJYc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625200690970846",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 218,
+          "impression_count": 49952,
+          "like_count": 1614,
+          "quote_count": 86,
+          "reply_count": 2,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "잠깐.\n홍루 머리가 포니테일이 아니라 반묶음머리였어?\n....\n나 진짜 왜 지금 알았지 https://t.co/YkDKXBJYc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 207,
+          "like_count": 3245,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T13:47:28.000Z",
+        "description": "뫼르소 주력(뫼르소 있다면 다 먹음)/덕질,소통,연성,그림/스토리 9.5 전부 봄/개그좋아함/여자/모르는 분도 담멘,인용해주셔도 됍니다",
+        "id": "2050210427792203776",
+        "name": "해피가습기",
+        "pinned_tweet_id": "2059486652985450894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051322457055956992/SdfNtqVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 63,
+          "like_count": 2425,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "bimg00240",
+        "verified": false
+      }
+    ]
+  }
+}

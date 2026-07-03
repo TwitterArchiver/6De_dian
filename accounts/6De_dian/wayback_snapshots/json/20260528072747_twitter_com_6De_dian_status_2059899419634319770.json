@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059490378386939909"
+      ],
+      "media_source_tweet_id": [
+        "2059490392580477284"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2059899419634319770",
+    "created_at": "2026-05-28T07:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059899419634319770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1572990598617116672",
+          "start": 3,
+          "username": "blackym25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEuSghIBuv",
+          "end": 38,
+          "expanded_url": "https://x.com/blackym25/status/2059490392580477284/photo/1",
+          "media_key": "3_2059490378386939909",
+          "start": 15,
+          "url": "https://t.co/jEuSghIBuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059899419634319770",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059490392580477284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackym25: https://t.co/jEuSghIBuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2059490378386939909",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTHlmYWoAUAPvj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059490378386939909"
+          ],
+          "media_source_tweet_id": [
+            "2059490392580477284"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059899419634319770",
+        "created_at": "2026-05-28T07:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059899419634319770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1572990598617116672",
+              "start": 3,
+              "username": "blackym25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEuSghIBuv",
+              "end": 38,
+              "expanded_url": "https://x.com/blackym25/status/2059490392580477284/photo/1",
+              "media_key": "3_2059490378386939909",
+              "start": 15,
+              "url": "https://t.co/jEuSghIBuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059899419634319770",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059490392580477284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackym25: https://t.co/jEuSghIBuv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059490378386939909"
+          ]
+        },
+        "author_id": "1572990598617116672",
+        "conversation_id": "2059490392580477284",
+        "created_at": "2026-05-27T04:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059490392580477284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEuSghIBuv",
+              "end": 23,
+              "expanded_url": "https://x.com/blackym25/status/2059490392580477284/photo/1",
+              "media_key": "3_2059490378386939909",
+              "start": 0,
+              "url": "https://t.co/jEuSghIBuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059490392580477284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 420788,
+          "like_count": 3426,
+          "quote_count": 7,
+          "reply_count": 151,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jEuSghIBuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 116,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 106
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T16:45:59.000Z",
+        "description": "阅读｜民俗文化｜旅游｜语言学习｜分子人类学",
+        "id": "1572990598617116672",
+        "location": "中南海",
+        "name": "blackhumor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053631661441025/orWV3F2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10800,
+          "following_count": 5319,
+          "like_count": 75849,
+          "listed_count": 68,
+          "media_count": 8522,
+          "tweet_count": 31639
+        },
+        "username": "blackym25",
+        "verified": true
+      }
+    ]
+  }
+}

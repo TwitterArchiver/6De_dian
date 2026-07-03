@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2059039168840265967",
+    "created_at": "2026-05-26T01:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059077317314392120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933114395854610432",
+          "start": 0,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059077317314392120",
+    "in_reply_to_user_id": "1933114395854610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059039168840265967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eweisi32 抱抱。。生物爹不讲理😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059039153958912000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMtM4ZXgAASomx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059039168840265967",
+        "created_at": "2026-05-26T01:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059077317314392120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059077317314392120",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059039168840265967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 抱抱。。生物爹不讲理😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059039153958912000"
+          ]
+        },
+        "author_id": "1933114395854610432",
+        "conversation_id": "2059039168840265967",
+        "created_at": "2026-05-25T22:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059039168840265967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7bP6sNVqE",
+              "end": 113,
+              "expanded_url": "https://x.com/eweisi32/status/2059039168840265967/photo/1",
+              "media_key": "3_2059039153958912000",
+              "start": 90,
+              "url": "https://t.co/F7bP6sNVqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059039168840265967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞什么啊一直说给我办休学拖到现在。各种理由跟听不懂人话一样，学校那边走手续也好麻烦，各种规章制度根本就不合理，只希望能配上点用场吧。好烦好烦好累。生物爹一直说我没有病例也没有病。 https://t.co/F7bP6sNVqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 73,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个oder，一个餐劵逼，一个神经病，一个小女孩。互fo私信 接塔罗/雷诺曼占卜如有需要请私信我\n乐乐@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eweisi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eweisi",
+                "start": 0,
+                "url": "https://t.co/lrRktEWrfO"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "(｡•́︿•̀｡)",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2057422396618158207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 565,
+          "like_count": 1814,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/lrRktEWrfO",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2066957216964292702",
+    "created_at": "2026-06-16T18:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T19:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066957216964292702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ji_chu25601/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/ji_chu25601/status/2066673680546181312",
+          "start": 15,
+          "url": "https://t.co/mMCePKAWzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066957216964292702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066673680546181312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子，你是不是想开普瑞巴林呐 https://t.co/mMCePKAWzw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2066957216964292702",
+        "created_at": "2026-06-16T18:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066957216964292702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_chu25601/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ji_chu25601/status/2066673680546181312",
+              "start": 15,
+              "url": "https://t.co/mMCePKAWzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066957216964292702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066673680546181312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子，你是不是想开普瑞巴林呐 https://t.co/mMCePKAWzw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910629733785870336",
+        "conversation_id": "2066673680546181312",
+        "created_at": "2026-06-16T00:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066673680546181312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066673680546181312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2470,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "看着你手上的疤你的健全朋友只会远离你不住院的时候晶哥会亲切问候你的住址电话父母名字医生会问你孩子你是不是想开普瑞巴林呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n可以私信我呀我很喜欢交朋友",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 184,
+          "like_count": 2547,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 314
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T09:43:30.000Z",
+        "description": "ip广州被断生活费15岁我o/割因为手上的伤暂时找不到工作乞讨勉强活下(互fo欢迎不过会卡点成分)如果可以其实可以纯绿线下()",
+        "id": "1910629733785870336",
+        "name": "精神活性物质",
+        "pinned_tweet_id": "2066457296125972895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060801794629062656/Mmf_CC7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 117,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 435
+        },
+        "username": "ji_chu25601",
+        "verified": false
+      }
+    ]
+  }
+}

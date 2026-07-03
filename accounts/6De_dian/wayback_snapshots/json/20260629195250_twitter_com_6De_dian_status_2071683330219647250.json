@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2071683330219647250",
+    "created_at": "2026-06-29T19:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071683330219647250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839085606573637632",
+          "start": 3,
+          "username": "zhiii_tan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071683330219647250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071509521273622826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiii_tan: 迟到了很久的400fo500fo抽奖\n马上600了抽一点吧🥰\n¯꒳¯\n一等奖 一顿肯德基（折现50r一人\n二等奖一杯奶茶（折现18.88r 两人\n三等奖一盒红贝印（折现8.8r 两人\n幸运奖 5.2r 三人\n՞･∞･՞\n转帖关注点赞参加 可以不用评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2071683330219647250",
+        "created_at": "2026-06-29T19:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071683330219647250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839085606573637632",
+              "start": 3,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071683330219647250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071509521273622826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiii_tan: 迟到了很久的400fo500fo抽奖\n马上600了抽一点吧🥰\n¯꒳¯\n一等奖 一顿肯德基（折现50r一人\n二等奖一杯奶茶（折现18.88r 两人\n三等奖一盒红贝印（折现8.8r 两人\n幸运奖 5.2r 三人\n՞･∞･՞\n转帖关注点赞参加 可以不用评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2071509521273622826",
+        "created_at": "2026-06-29T08:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071509521273622826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071509521273622826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 909,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "迟到了很久的400fo500fo抽奖\n马上600了抽一点吧🥰\n¯꒳¯\n一等奖 一顿肯德基（折现50r一人\n二等奖一杯奶茶（折现18.88r 两人\n三等奖一盒红贝印（折现8.8r 两人\n幸运奖 5.2r 三人\n՞･∞･՞\n转帖关注点赞参加 可以不用评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 309,
+          "like_count": 5815,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 605,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 3422
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

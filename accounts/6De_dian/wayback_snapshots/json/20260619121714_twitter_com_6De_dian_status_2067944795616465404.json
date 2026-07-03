@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2067944795616465404",
+    "created_at": "2026-06-19T12:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067944795616465404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bucachonglu/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/bucachonglu/status/2067902523110007261",
+          "start": 4,
+          "url": "https://t.co/63erEAkTLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067944795616465404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067902523110007261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈。 https://t.co/63erEAkTLe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_2067902497768030208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKqXZGbQAAQKxH.png",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2067944795616465404",
+        "created_at": "2026-06-19T12:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067944795616465404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bucachonglu/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/bucachonglu/status/2067902523110007261",
+              "start": 4,
+              "url": "https://t.co/63erEAkTLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067944795616465404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067902523110007261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈。 https://t.co/63erEAkTLe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067902497768030208"
+          ]
+        },
+        "author_id": "1479047776160071684",
+        "conversation_id": "2067902523110007261",
+        "created_at": "2026-06-19T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067902523110007261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MupUkj4Bna",
+              "end": 47,
+              "expanded_url": "https://x.com/bucachonglu/status/2067902523110007261/photo/1",
+              "media_key": "3_2067902497768030208",
+              "start": 24,
+              "url": "https://t.co/MupUkj4Bna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067902523110007261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sorry this is my mother https://t.co/MupUkj4Bna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜oder｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n正在学习药理中…\n\n可以私信我呀 很喜欢交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 202,
+          "like_count": 2924,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-06T11:11:01.000Z",
+        "description": "i use drug to draw",
+        "id": "1479047776160071684",
+        "name": "我最喜欢的情侣应该做爱",
+        "pinned_tweet_id": "2027003711198032322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062913427073609728/JsvVAXS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7642,
+          "following_count": 133,
+          "like_count": 39429,
+          "listed_count": 18,
+          "media_count": 2512,
+          "tweet_count": 27214
+        },
+        "url": "",
+        "username": "bucachonglu",
+        "verified": false
+      }
+    ]
+  }
+}

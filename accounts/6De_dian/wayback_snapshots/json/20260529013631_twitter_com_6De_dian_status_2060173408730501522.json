@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2059952251742101940",
+    "created_at": "2026-05-29T01:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060173408730501522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060173408730501522",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059952251742101940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 据说是在设置中打开敏感账号！这样消息就会有自动提示。。因为那些屏蔽好像不是自动出现的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2059952251742101940",
+        "created_at": "2026-05-29T01:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060173408730501522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060173408730501522",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059952251742101940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 据说是在设置中打开敏感账号！这样消息就会有自动提示。。因为那些屏蔽好像不是自动出现的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991025043359608833",
+        "conversation_id": "2059952251742101940",
+        "created_at": "2026-05-28T10:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059952251742101940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059952251742101940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥你们发血图不会被封😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 133,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 133
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-xun\nлаванда：（\n不营业了，专心唐氏😂",
+        "id": "1991025043359608833",
+        "name": "Qingxun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991025397182705671/-H5ivfND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 437,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "username": "Qingxuntlrr",
+        "verified": false
+      }
+    ]
+  }
+}

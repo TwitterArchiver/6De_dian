@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2066514195483656702",
+    "created_at": "2026-06-15T14:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T15:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066530974553317804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2066417026240020480",
+          "start": 0,
+          "username": "zsz1zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066530974553317804",
+    "in_reply_to_user_id": "2066417026240020480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066514195483656702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zsz1zu 宝宝你好萌…🥺❤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7866,
+        "height": 1280,
+        "media_key": "7_2066514161245523968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066514161245523968/pu/img/rz41P5WdsIHYL-ji.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066514161245523968/pu/vid/avc1/320x568/bwPrw0hYDDprxQ0P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066514161245523968/pu/vid/avc1/480x852/cDmwwMzC9Zbbx710.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066514161245523968/pu/vid/avc1/720x1280/gEY_Gw8DTYja_ln_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066514161245523968/pu/pl/ablE8wXT6qYgOscV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2066514195483656702",
+        "created_at": "2026-06-15T14:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066530974553317804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2066417026240020480",
+              "start": 0,
+              "username": "zsz1zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066530974553317804",
+        "in_reply_to_user_id": "2066417026240020480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066514195483656702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zsz1zu 宝宝你好萌…🥺❤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066514161245523968"
+          ]
+        },
+        "author_id": "2066417026240020480",
+        "conversation_id": "2066514195483656702",
+        "created_at": "2026-06-15T13:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066514195483656702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3SSvDWKER",
+              "end": 32,
+              "expanded_url": "https://x.com/zsz1zu/status/2066514195483656702/video/1",
+              "media_key": "7_2066514161245523968",
+              "start": 9,
+              "url": "https://t.co/w3SSvDWKER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066514195483656702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们理理我好不好 https://t.co/w3SSvDWKER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\noh no…发帖加回复差不多60条，结果msk把我点赞和发帖加回复禁了\n暂时回fo不了致歉😭会补回来的\n目前只能看私信好绝望\n可以私信我呀我很喜欢交朋友",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 174,
+          "like_count": 2473,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 298
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T07:07:57.000Z",
+        "description": "只是个穷鬼，你们理理我吧🥲",
+        "id": "2066417026240020480",
+        "location": "Macau",
+        "name": "透",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066418188649431040/u1C2kUKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "zsz1zu",
+        "verified": false
+      }
+    ]
+  }
+}

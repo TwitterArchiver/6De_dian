@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2063506082836963711",
+    "created_at": "2026-06-07T07:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063519532115784188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063519532115784188",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063506082836963711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Korewoizontoyo 卧槽帅哭了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2063506073756286976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKML11YawAA3bHO.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2063506082836963711",
+        "created_at": "2026-06-07T07:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063519532115784188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063519532115784188",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063506082836963711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Korewoizontoyo 卧槽帅哭了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063506073756286976"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2063506082836963711",
+        "created_at": "2026-06-07T06:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063506082836963711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlORd4QY8i",
+              "end": 33,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2063506082836963711/photo/1",
+              "media_key": "3_2063506073756286976",
+              "start": 10,
+              "url": "https://t.co/GlORd4QY8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063506082836963711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "这波大小眼牛福了， https://t.co/GlORd4QY8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。",
+        "id": "2057552254463291393",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2059538750347128962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057682303162187776/5rIQPIYV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 144,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 198
+        },
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。10。同类可以互fo，我爱你们",
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2058636529761964280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060755916010708992/wdTxpfjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 316,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 228
+        },
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}
