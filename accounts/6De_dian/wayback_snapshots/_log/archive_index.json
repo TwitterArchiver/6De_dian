@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-03T14:39:53",
+  "last_updated": "2026-07-03T14:40:11",
   "html": {
     "https://web.archive.org/web/20260522180607if_/https://twitter.com/6De_dian/status/2057885733075980470": {
       "status": "done",
@@ -7943,9 +7943,9 @@
       "referenced_by": [
         "20260524185118_twitter_com_6De_dian_status_2058621881977102338.json"
       ],
-      "last_updated": "2026-07-03T10:00:14",
+      "last_updated": "2026-07-03T14:40:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260524185118/https://video.twimg.com/amplify_video/2058212867724439552/vid/avc1/720x1280/lND9684RF08e1z9N.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2061125517949227008/vid/avc1/720x1030/wEHoZlGCWqVvJCnb.mp4": {
       "status": "done",
