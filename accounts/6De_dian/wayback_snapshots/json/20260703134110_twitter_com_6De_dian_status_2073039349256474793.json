@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073039323415392256"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2073000181990342696",
+    "created_at": "2026-07-03T13:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073039349256474793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E2APN6knvt",
+          "end": 39,
+          "expanded_url": "https://x.com/6De_dian/status/2073039349256474793/photo/1",
+          "media_key": "3_2073039323415392256",
+          "start": 16,
+          "url": "https://t.co/E2APN6knvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073039349256474793",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073000181990342696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo https://t.co/E2APN6knvt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073039323415392256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTqR_2XMAAI9TR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073039323415392256"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2073000181990342696",
+        "created_at": "2026-07-03T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073039349256474793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2APN6knvt",
+              "end": 39,
+              "expanded_url": "https://x.com/6De_dian/status/2073039349256474793/photo/1",
+              "media_key": "3_2073039323415392256",
+              "start": 16,
+              "url": "https://t.co/E2APN6knvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073039349256474793",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073000181990342696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo https://t.co/E2APN6knvt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755664020944941056",
+        "conversation_id": "2073000181990342696",
+        "created_at": "2026-07-03T11:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073000181990342696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/korewoizontoyo…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/korewoizontoyo/status/2072554164375437529",
+              "start": 26,
+              "url": "https://t.co/AqDC5YpXfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073000181990342696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072554164375437529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。我现在在低头玩手机抽烟。依旧流口水。他妈傻子吧。 https://t.co/AqDC5YpXfP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 358,
+          "like_count": 7363,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。oder。自残自伤。我会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2067641877361541426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072550280047321088/SM9rfL6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 501,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1035
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

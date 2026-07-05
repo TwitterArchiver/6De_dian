@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2073079859153129624",
+    "created_at": "2026-07-03T16:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073079859153129624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2000723611276173312",
+          "start": 3,
+          "username": "Bemylover_319"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073079859153129624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038937753384259823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bemylover_319: 墙内一群傻逼天天在那o什么药好一堆人拿着个感康布洛芬发短视频o不死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2073079859153129624",
+        "created_at": "2026-07-03T16:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073079859153129624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2000723611276173312",
+              "start": 3,
+              "username": "Bemylover_319"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073079859153129624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038937753384259823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bemylover_319: 墙内一群傻逼天天在那o什么药好一堆人拿着个感康布洛芬发短视频o不死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000723611276173312",
+        "conversation_id": "2038937753384259823",
+        "created_at": "2026-03-31T11:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038937753384259823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038937753384259823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "墙内一群傻逼天天在那o什么药好一堆人拿着个感康布洛芬发短视频o不死你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 358,
+          "like_count": 7382,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-16T00:25:14.000Z",
+        "description": "=骨 od｜自傷｜雙向｜泛｜swtich",
+        "id": "2000723611276173312",
+        "location": "🚪88",
+        "name": "Luvisdrug",
+        "pinned_tweet_id": "2062245010880504146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070627344465969152/qyFjJW2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 88,
+          "like_count": 551,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "Bemylover_319",
+        "verified": false
+      }
+    ]
+  }
+}
