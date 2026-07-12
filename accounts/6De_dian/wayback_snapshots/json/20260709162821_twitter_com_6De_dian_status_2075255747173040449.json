@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075255131528978433"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075240890415595677",
+    "created_at": "2026-07-09T16:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075255747173040449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/St4OYrTt7h",
+          "end": 108,
+          "expanded_url": "https://x.com/6De_dian/status/2075255747173040449/photo/1",
+          "media_key": "3_2075255131528978433",
+          "start": 85,
+          "url": "https://t.co/St4OYrTt7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075255747173040449",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075240890415595677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉。没有烟了，只能抽废物细支了\n3支才顶一只粗的，\n好辛酸好无聊，没有烟的话我就不嗑药了，一会到处找烟找不着还生气\n之前定的10号今天终于可以买烟了呃哈哈\n我还是追番吧 https://t.co/St4OYrTt7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075255131528978433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzJjAUXYAEix-5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075255131528978433"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075240890415595677",
+        "created_at": "2026-07-09T16:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075255747173040449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/St4OYrTt7h",
+              "end": 108,
+              "expanded_url": "https://x.com/6De_dian/status/2075255747173040449/photo/1",
+              "media_key": "3_2075255131528978433",
+              "start": 85,
+              "url": "https://t.co/St4OYrTt7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075255747173040449",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075240890415595677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉。没有烟了，只能抽废物细支了\n3支才顶一只粗的，\n好辛酸好无聊，没有烟的话我就不嗑药了，一会到处找烟找不着还生气\n之前定的10号今天终于可以买烟了呃哈哈\n我还是追番吧 https://t.co/St4OYrTt7h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2075240890415595677",
+        "created_at": "2026-07-09T15:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075240890415595677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075240890415595677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不嗑药的话抽烟好无聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 389,
+          "like_count": 8867,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

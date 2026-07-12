@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074430069326651434",
+    "created_at": "2026-07-07T17:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074549785428623690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        },
+        {
+          "end": 22,
+          "id": "2004802306873982977",
+          "start": 14,
+          "username": "Len10x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074549785428623690",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074466715224936645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe @Len10x0 我之前也吃普瑞，但是这么吃还是有药效的（）但是这个药还是要有耐心…🥺太麻烦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T17:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074549785428623690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            },
+            {
+              "end": 22,
+              "id": "2004802306873982977",
+              "start": 14,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074549785428623690",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074466715224936645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe @Len10x0 我之前也吃普瑞，但是这么吃还是有药效的（）但是这个药还是要有耐心…🥺太麻烦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074430069326651434",
+        "created_at": "2026-07-07T12:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466715224936645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466715224936645",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074466124742414354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 没关系，尝试一下啦，不行就去od炸鸡可乐了，反正az这边药挺多的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 381,
+          "like_count": 8295,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1394
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 357,
+          "like_count": 2172,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "泛性恋偏le老婆 @55ghcgxc\n#日系#餐券#地雷系#od\n双相患者2011.8.7\n同类互fo 可以叫我深晟或者小冷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "55ghcgxc"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "🚪52/88/188上不封顶不退",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2071854427619926090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071937367934369793/cVS-k0I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 250,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

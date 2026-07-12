@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2074510999424483328"
+      ],
+      "media_source_tweet_id": [
+        "2074542600602710267"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074679897381810278",
+    "created_at": "2026-07-08T02:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T03:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074679897381810278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1335261868223590401",
+          "start": 3,
+          "username": "yerayherr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fw7c19Ynef",
+          "end": 100,
+          "expanded_url": "https://x.com/yerayherr/status/2074542600602710267/video/1",
+          "media_key": "7_2074510999424483328",
+          "start": 77,
+          "url": "https://t.co/fw7c19Ynef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074679897381810278",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074542600602710267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yerayherr: el trato que quiero recibir después de pasar un día de mierda https://t.co/fw7c19Ynef"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 480,
+        "media_key": "7_2074510999424483328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2074510999424483328/pu/img/ZIshWc45exNkoS-D.jpg",
+        "public_metrics": {
+          "view_count": 79235
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510999424483328/pu/vid/avc1/360x270/xTU5IqLYuvaVu33l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510999424483328/pu/vid/avc1/480x360/fQYhm9CiNDxwViBL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2074510999424483328/pu/vid/avc1/640x480/PsKtYqP0PZqpfiIR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2074510999424483328/pu/pl/G7fVNbIDZmhLolua.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074510999424483328"
+          ],
+          "media_source_tweet_id": [
+            "2074542600602710267"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074679897381810278",
+        "created_at": "2026-07-08T02:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074679897381810278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1335261868223590401",
+              "start": 3,
+              "username": "yerayherr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fw7c19Ynef",
+              "end": 100,
+              "expanded_url": "https://x.com/yerayherr/status/2074542600602710267/video/1",
+              "media_key": "7_2074510999424483328",
+              "start": 77,
+              "url": "https://t.co/fw7c19Ynef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074679897381810278",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074542600602710267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yerayherr: el trato que quiero recibir después de pasar un día de mierda https://t.co/fw7c19Ynef"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2074510999424483328"
+          ]
+        },
+        "author_id": "1335261868223590401",
+        "conversation_id": "2074542600602710267",
+        "created_at": "2026-07-07T17:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074542600602710267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fw7c19Ynef",
+              "end": 85,
+              "expanded_url": "https://x.com/yerayherr/status/2074542600602710267/video/1",
+              "media_key": "7_2074510999424483328",
+              "start": 62,
+              "url": "https://t.co/fw7c19Ynef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074542600602710267",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 884,
+          "impression_count": 204513,
+          "like_count": 18747,
+          "quote_count": 142,
+          "reply_count": 21,
+          "retweet_count": 4225
+        },
+        "reply_settings": "everyone",
+        "text": "el trato que quiero recibir después de pasar un día de mierda https://t.co/fw7c19Ynef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 383,
+          "like_count": 8518,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T16:37:01.000Z",
+        "description": "tuiteó todo | promo y colab dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yeray.vpe",
+                "end": 23,
+                "expanded_url": "http://instagram.com/yeray.vpe",
+                "start": 0,
+                "url": "https://t.co/v0K5hxumnE"
+              }
+            ]
+          }
+        },
+        "id": "1335261868223590401",
+        "location": "🇮🇨",
+        "name": "ًyeray•♡",
+        "pinned_tweet_id": "1574028456584790020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756067110114009088/t6G_H_hk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10296,
+          "following_count": 95,
+          "like_count": 112273,
+          "listed_count": 45,
+          "media_count": 1210,
+          "tweet_count": 38590
+        },
+        "url": "https://t.co/v0K5hxumnE",
+        "username": "yerayherr",
+        "verified": false
+      }
+    ]
+  }
+}

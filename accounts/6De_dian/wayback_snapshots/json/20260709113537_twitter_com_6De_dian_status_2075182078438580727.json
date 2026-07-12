@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074989250148233321",
+    "created_at": "2026-07-09T11:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T12:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075182078438580727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552137826913120256",
+          "start": 0,
+          "username": "BZaychlk"
+        },
+        {
+          "end": 26,
+          "id": "1801534903626121216",
+          "start": 10,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075182078438580727",
+    "in_reply_to_user_id": "1552137826913120256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075157682290581797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BZaychlk @qngshu988723424 我已经吃这个几年了呢，身体代谢挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074989250148233321",
+        "created_at": "2026-07-09T11:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075182078438580727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            },
+            {
+              "end": 26,
+              "id": "1801534903626121216",
+              "start": 10,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075182078438580727",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075157682290581797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BZaychlk @qngshu988723424 我已经吃这个几年了呢，身体代谢挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552137826913120256",
+        "conversation_id": "2074989250148233321",
+        "created_at": "2026-07-09T09:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075157682290581797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            },
+            {
+              "end": 26,
+              "id": "1801534903626121216",
+              "start": 10,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075157682290581797",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075149992264609890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian @qngshu988723424 这东西我一般是75mg一次，像是布洛芬pro max，抗炎、感冒、关节炎都可以，只是对肾脏压力比布洛芬更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 388,
+          "like_count": 8817,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "location": "Side 6 殖民卫星",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 574,
+          "like_count": 15733,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 4475
+        },
+        "url": "",
+        "username": "BZaychlk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康/可能有💊提及||                                  @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。可以多和她互动！这个布丁很好互动也很有意思，我最喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ace_Purin"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 770,
+          "like_count": 9945,
+          "listed_count": 2,
+          "media_count": 728,
+          "tweet_count": 8782
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

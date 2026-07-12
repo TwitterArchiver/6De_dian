@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2073520807511277913",
+    "created_at": "2026-07-05T11:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073729048358842849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054410525854072832",
+          "start": 0,
+          "username": "Yang1shuai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073729048358842849",
+    "in_reply_to_user_id": "2054410525854072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073728800874250415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang1shuai2 天呐…南宁这儿也是十级台风，有的地方被淹了，不过没有淹到我这儿😭好大雨好大雨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2073520807511277913",
+        "created_at": "2026-07-05T11:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073729048358842849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054410525854072832",
+              "start": 0,
+              "username": "Yang1shuai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073729048358842849",
+        "in_reply_to_user_id": "2054410525854072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073728800874250415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang1shuai2 天呐…南宁这儿也是十级台风，有的地方被淹了，不过没有淹到我这儿😭好大雨好大雨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054410525854072832",
+        "conversation_id": "2073520807511277913",
+        "created_at": "2026-07-05T11:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073728800874250415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073728800874250415",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073520807511277913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 我们这边昨天和前天下大雨 地形低的和地下车库全被淹了 街上积水像河一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 376,
+          "like_count": 7950,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T03:58:12.000Z",
+        "description": "男/19岁/双向/自残/oder/策划药/有机化学.药理学爱好者/\n\n很开心与大家交朋友聊天😁能与大家认识我很开心😆欢迎互fo🥰",
+        "id": "2054410525854072832",
+        "name": "Mr.me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066204021019578368/2ZfhzXkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 87,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Yang1shuai2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2073387528166482376",
+    "created_at": "2026-07-04T12:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073387528166482376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592401094273302528",
+          "start": 3,
+          "username": "LuoLuo_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073387528166482376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073265357758886352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuoLuo_Miki: 😨，这么快就200fo了，正式抽个奖吧\n转发，点赞，评论，关注\n7月10日，晚上20:00开奖\n一等奖-3盒绿普\n二等奖-5.20小红包\n三等奖-2.33小红包\n还有我真不od，不要说我o啊，那次情绪炸了就吃了那一次✋😭✋ https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073265340285698048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW316TbwAAwOGI.jpg",
+        "width": 2376
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2073265350599397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW32guaUAAJEmp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2073387528166482376",
+        "created_at": "2026-07-04T12:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073387528166482376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592401094273302528",
+              "start": 3,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073387528166482376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073265357758886352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuoLuo_Miki: 😨，这么快就200fo了，正式抽个奖吧\n转发，点赞，评论，关注\n7月10日，晚上20:00开奖\n一等奖-3盒绿普\n二等奖-5.20小红包\n三等奖-2.33小红包\n还有我真不od，不要说我o啊，那次情绪炸了就吃了那一次✋😭✋ https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073265340285698048",
+            "3_2073265350599397376"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073265357758886352",
+        "created_at": "2026-07-04T04:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073265357758886352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJ2KveAnJ3",
+              "end": 135,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2073265357758886352/photo/1",
+              "media_key": "3_2073265340285698048",
+              "start": 112,
+              "url": "https://t.co/YJ2KveAnJ3"
+            },
+            {
+              "display_url": "pic.x.com/YJ2KveAnJ3",
+              "end": 135,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2073265357758886352/photo/1",
+              "media_key": "3_2073265350599397376",
+              "start": 112,
+              "url": "https://t.co/YJ2KveAnJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073265357758886352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1356,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "😨，这么快就200fo了，正式抽个奖吧\n转发，点赞，评论，关注\n7月10日，晚上20:00开奖\n一等奖-3盒绿普\n二等奖-5.20小红包\n三等奖-2.33小红包\n还有我真不od，不要说我o啊，那次情绪炸了就吃了那一次✋😭✋ https://t.co/YJ2KveAnJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 373,
+          "like_count": 7765,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 135,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

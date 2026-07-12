@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074111468472332525",
+    "created_at": "2026-07-06T21:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T22:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074245908435190093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998718271856717826",
+          "start": 0,
+          "username": "PaulaRiver9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074245908435190093",
+    "in_reply_to_user_id": "1998718271856717826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074111468472332525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulaRiver9119 *埋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2074111456984154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi5YYobwAAQHoe.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074111468472332525",
+        "created_at": "2026-07-06T21:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074245908435190093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998718271856717826",
+              "start": 0,
+              "username": "PaulaRiver9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074245908435190093",
+        "in_reply_to_user_id": "1998718271856717826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074111468472332525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulaRiver9119 *埋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074111456984154112"
+          ]
+        },
+        "author_id": "1998718271856717826",
+        "conversation_id": "2074111468472332525",
+        "created_at": "2026-07-06T12:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074111468472332525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J72O3Nt222",
+              "end": 27,
+              "expanded_url": "https://x.com/PaulaRiver9119/status/2074111468472332525/photo/1",
+              "media_key": "3_2074111456984154112",
+              "start": 4,
+              "url": "https://t.co/J72O3Nt222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074111468472332525",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⊙︿⊙ https://t.co/J72O3Nt222"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 378,
+          "like_count": 8167,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁\n一般发碎碎念有负面预警！！😈⚠\n/Eng&日本語 翻译器💖💖/\n可以叫我V\n被ban的时候也会在这里发点画😢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/l4GGSVahDj"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "location": "向我提问吧💖→",
+        "name": "Vermilion",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066463827311607809/Pt_Cicbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 22,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/l4GGSVahDj",
+        "username": "PaulaRiver9119",
+        "verified": false
+      }
+    ]
+  }
+}

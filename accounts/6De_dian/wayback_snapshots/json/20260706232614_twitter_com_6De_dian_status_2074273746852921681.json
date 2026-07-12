@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074139400926290004",
+    "created_at": "2026-07-06T23:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074273746852921681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2072629204437602304",
+          "start": 0,
+          "username": "lilPuffBomb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074273746852921681",
+    "in_reply_to_user_id": "2072629204437602304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074139400926290004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilPuffBomb 好美丽，，好复古的感觉…姐姐长得真的太美丽了🥺🥺💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2074139337734901761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjSvQhaUAEJLWJ.jpg",
+        "width": 375
+      },
+      {
+        "height": 500,
+        "media_key": "3_2074139337726586881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjSvQfbcAEwga-.jpg",
+        "width": 375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074139400926290004",
+        "created_at": "2026-07-06T23:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074273746852921681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2072629204437602304",
+              "start": 0,
+              "username": "lilPuffBomb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074273746852921681",
+        "in_reply_to_user_id": "2072629204437602304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074139400926290004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilPuffBomb 好美丽，，好复古的感觉…姐姐长得真的太美丽了🥺🥺💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074139337734901761",
+            "3_2074139337726586881"
+          ]
+        },
+        "author_id": "2072629204437602304",
+        "conversation_id": "2074139400926290004",
+        "created_at": "2026-07-06T14:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074139400926290004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfPyGJGp44",
+              "end": 31,
+              "expanded_url": "https://x.com/lilPuffBomb/status/2074139400926290004/photo/1",
+              "media_key": "3_2074139337734901761",
+              "start": 8,
+              "url": "https://t.co/XfPyGJGp44"
+            },
+            {
+              "display_url": "pic.x.com/XfPyGJGp44",
+              "end": 31,
+              "expanded_url": "https://x.com/lilPuffBomb/status/2074139400926290004/photo/1",
+              "media_key": "3_2074139337726586881",
+              "start": 8,
+              "url": "https://t.co/XfPyGJGp44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074139400926290004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我唾弃你的坟墓 https://t.co/XfPyGJGp44"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 380,
+          "like_count": 8256,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T10:33:08.000Z",
+        "description": "前世：PuffBombBOOM\n我是泡芙/我早就不怕痛了\n餐券b/边缘型人格障碍/自鲨失败休学中/我割我o\n欢迎同好宝宝互fo扩扩\n🚪52/接线下/伤疤定制",
+        "id": "2072629204437602304",
+        "location": "ʚ✞ɞ",
+        "name": "PuffBomb（寻找互关版）",
+        "pinned_tweet_id": "2072668984194043913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072629780164562944/WWQFixYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 49,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "lilPuffBomb",
+        "verified": false
+      }
+    ]
+  }
+}

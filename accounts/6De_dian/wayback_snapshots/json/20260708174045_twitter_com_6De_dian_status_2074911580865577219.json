@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2074895285545816171",
+    "created_at": "2026-07-08T17:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074911580865577219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074911580865577219",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074895285545816171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1：40\n我又补了一些剂量，我操这个死妈广西台风后空气潮湿度太大了，一倒出来就结块啊啊。。。\n\n在称量时的片状物就已经无法分开了，，无法聚成粉条。\n我开除湿都开最大了\n好痛好痛\n\n又要体验一次啊。\n1：40\n鼻吸15mg snpd\n150普瑞协同…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2074895285545816171",
+        "created_at": "2026-07-08T17:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074911580865577219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074911580865577219",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074895285545816171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1：40\n我又补了一些剂量，我操这个死妈广西台风后空气潮湿度太大了，一倒出来就结块啊啊。。。\n\n在称量时的片状物就已经无法分开了，，无法聚成粉条。\n我开除湿都开最大了\n好痛好痛\n\n又要体验一次啊。\n1：40\n鼻吸15mg snpd\n150普瑞协同…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2074895285545816171",
+        "created_at": "2026-07-08T16:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074895285545816171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074895285545816171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7月8日\n大概20:40\n2g茶氨酸\n3t普瑞\n4t加巴\n\n7月9日【snpd钠盐_初尝试】\n\n00：30\n鼻吸10mg _ snpd钠盐\n粉末轻微受潮，有结块状\n感到轻微的疼痛，疼痛感和异物感比普瑞巴林强\n比安非他酮小\n但是仍然有不适\n等待药效中\n鼻腔内有化学灼烧感。\n明显。\n00：32疼痛感逐渐加强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 384,
+          "like_count": 8540,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1429
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}
