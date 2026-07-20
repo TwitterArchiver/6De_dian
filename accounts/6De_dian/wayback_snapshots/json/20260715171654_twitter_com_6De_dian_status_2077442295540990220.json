@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077393224654782510",
+    "created_at": "2026-07-15T17:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077442295540990220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755664020944941056",
+          "start": 0,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077442295540990220",
+    "in_reply_to_user_id": "1755664020944941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077393224654782510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korewoizontoyo 卧槽看哭了我老公怎么这么美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077393212843720704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRiHt5bgAA4t6q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077393224654782510",
+        "created_at": "2026-07-15T17:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077442295540990220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755664020944941056",
+              "start": 0,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077442295540990220",
+        "in_reply_to_user_id": "1755664020944941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077393224654782510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korewoizontoyo 卧槽看哭了我老公怎么这么美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077393212843720704"
+          ]
+        },
+        "author_id": "1755664020944941056",
+        "conversation_id": "2077393224654782510",
+        "created_at": "2026-07-15T14:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077393224654782510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/948ztQ7m5m",
+              "end": 40,
+              "expanded_url": "https://x.com/Korewoizontoyo/status/2077393224654782510/photo/1",
+              "media_key": "3_2077393212843720704",
+              "start": 17,
+              "url": "https://t.co/948ztQ7m5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077393224654782510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被相机单杀了。p图软件你加油吧 https://t.co/948ztQ7m5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 425,
+          "like_count": 9868,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1792
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2075254657912586502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077430330051674112/pgZuXyjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 527,
+          "like_count": 3858,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

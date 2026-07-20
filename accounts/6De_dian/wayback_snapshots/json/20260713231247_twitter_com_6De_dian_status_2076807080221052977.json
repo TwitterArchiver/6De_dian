@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076807062458138624"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076806619162112474",
+    "created_at": "2026-07-13T23:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076807080221052977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zAxz4KZoxA",
+          "end": 23,
+          "expanded_url": "https://x.com/6De_dian/status/2076807080221052977/photo/1",
+          "media_key": "3_2076807062458138624",
+          "start": 0,
+          "url": "https://t.co/zAxz4KZoxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076807080221052977",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076806886465130956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/zAxz4KZoxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1322,
+        "media_key": "3_2076807062458138624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJNBRjXAAAYK4s.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1762,
+        "media_key": "3_2076806870266707968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJM2FlWgAAPH8X.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076807062458138624"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076806619162112474",
+        "created_at": "2026-07-13T23:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076807080221052977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAxz4KZoxA",
+              "end": 23,
+              "expanded_url": "https://x.com/6De_dian/status/2076807080221052977/photo/1",
+              "media_key": "3_2076807062458138624",
+              "start": 0,
+              "url": "https://t.co/zAxz4KZoxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076807080221052977",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076806886465130956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zAxz4KZoxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076806870266707968"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076806619162112474",
+        "created_at": "2026-07-13T23:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076806886465130956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkaDruAGvG",
+              "end": 23,
+              "expanded_url": "https://x.com/6De_dian/status/2076806886465130956/photo/1",
+              "media_key": "3_2076806870266707968",
+              "start": 0,
+              "url": "https://t.co/vkaDruAGvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076806886465130956",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076806619162112474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vkaDruAGvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 416,
+          "like_count": 9454,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1667
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

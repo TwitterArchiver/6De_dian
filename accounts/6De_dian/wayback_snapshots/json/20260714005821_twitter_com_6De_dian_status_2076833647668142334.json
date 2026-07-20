@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076732669975478292",
+    "created_at": "2026-07-14T00:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076833647668142334"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076833647668142334",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076813064121299029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7：45\nap余晖…\n我好晕呢。\n濒死感的，幸福\n\n上厕所有点艰难\n我今天得多喝点水啊\n\n8：00\n很明显的开始有点走不稳路。我的黑衬衫到处撞到墙上，然后沾了很多白色的墙灰。\n抽烟的时候手特别抖，全身都有点抖。\n\n但是我说了很多话，一直和人发消息吧。\n有一点虚无的、麻木的社交欲望和交流冲动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076732669975478292",
+        "created_at": "2026-07-14T00:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833647668142334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833647668142334",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076813064121299029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7：45\nap余晖…\n我好晕呢。\n濒死感的，幸福\n\n上厕所有点艰难\n我今天得多喝点水啊\n\n8：00\n很明显的开始有点走不稳路。我的黑衬衫到处撞到墙上，然后沾了很多白色的墙灰。\n抽烟的时候手特别抖，全身都有点抖。\n\n但是我说了很多话，一直和人发消息吧。\n有一点虚无的、麻木的社交欲望和交流冲动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076732669975478292",
+        "created_at": "2026-07-13T23:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076813064121299029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076813064121299029",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076811301959963119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7：32\n我想大概是有点晕晕的眩晕感\n蹲着的时候感觉自己是一个固体，是一个凝结成状的胶体\n是一团在内部无限往下凹陷的死亡物质。\n\n然后加上一点 类似\n我之前轻燥狂感受到的温暖和愉快\n社交欲望增强\n6点的时候去找不太熟的朋友聊了一会儿。\n直到现在抽烟。\n然后对行为的感到欣慰…还有一点茫然的空洞。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 420,
+          "like_count": 9479,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1685
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

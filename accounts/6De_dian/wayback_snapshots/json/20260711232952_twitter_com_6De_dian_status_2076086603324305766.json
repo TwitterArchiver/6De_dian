@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076086603324305766",
+    "created_at": "2026-07-11T23:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T00:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076086603324305766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Victor_zhang23…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Victor_zhang233/status/2075722977476583855",
+          "start": 3,
+          "url": "https://t.co/BuftldF0sB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076086603324305766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075722977476583855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的 https://t.co/BuftldF0sB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076086603324305766",
+        "created_at": "2026-07-11T23:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076086603324305766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2075722977476583855",
+              "start": 3,
+              "url": "https://t.co/BuftldF0sB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076086603324305766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075722977476583855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的 https://t.co/BuftldF0sB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2075722977476583855",
+        "created_at": "2026-07-10T23:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075722977476583855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2075640505770377546",
+              "start": 6,
+              "url": "https://t.co/HmhSAUHcNJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075722977476583855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 950,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075640505770377546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗑药是对的 https://t.co/HmhSAUHcNJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 398,
+          "like_count": 9131,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | he/him | 药物欣快重度依赖 | \n这是哪里。。？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sheep60741",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sheep60741",
+                "start": 0,
+                "url": "https://t.co/zTC2P2rMgX"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "Ashes",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332331530018816/r8WlMV2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 459,
+          "like_count": 9714,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/zTC2P2rMgX",
+        "username": "Victor_zhang233",
+        "verified": false
+      }
+    ]
+  }
+}

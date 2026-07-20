@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076703449190998042",
+    "created_at": "2026-07-15T04:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077244561592570164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        },
+        {
+          "end": 24,
+          "id": "2053597495033540608",
+          "start": 13,
+          "username": "wen1029TvT"
+        },
+        {
+          "end": 40,
+          "id": "1848393837971914753",
+          "start": 25,
+          "username": "mao0pasuki_nie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077244561592570164",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076982440460214291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n @wen1029TvT @mao0pasuki_nie 主要是一个普瑞抑制剂，一个晚安兴奋剂\n会让药效对冲吧，然后有点神经毒性\n加上拉扯消耗神经系统什么的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076703449190998042",
+        "created_at": "2026-07-15T04:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077244561592570164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            },
+            {
+              "end": 24,
+              "id": "2053597495033540608",
+              "start": 13,
+              "username": "wen1029TvT"
+            },
+            {
+              "end": 40,
+              "id": "1848393837971914753",
+              "start": 25,
+              "username": "mao0pasuki_nie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077244561592570164",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076982440460214291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n @wen1029TvT @mao0pasuki_nie 主要是一个普瑞抑制剂，一个晚安兴奋剂\n会让药效对冲吧，然后有点神经毒性\n加上拉扯消耗神经系统什么的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746818545630195713",
+        "conversation_id": "2076703449190998042",
+        "created_at": "2026-07-14T10:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982440460214291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053597495033540608",
+              "start": 0,
+              "username": "wen1029TvT"
+            },
+            {
+              "end": 27,
+              "id": "1848393837971914753",
+              "start": 12,
+              "username": "mao0pasuki_nie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982440460214291",
+        "in_reply_to_user_id": "2053597495033540608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076979681031762423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wen1029TvT @mao0pasuki_nie 我糙不是吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 426,
+          "like_count": 9747,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1766
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/双相/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜/玻璃心/欢迎私信/熟悉之后可以加墙内联系方式/请称呼我文文or小卡\n如果能忍受我不定期发疯可以和我交朋友\n别骂我别骂我别骂我，我要是说错话请直接告诉我\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2063533744276038085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 223,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T22:06:16.000Z",
+        "description": "求你别离开我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/twten1029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/twten1029",
+                "start": 0,
+                "url": "https://t.co/Vdgxwy3eo9"
+              }
+            ]
+          }
+        },
+        "id": "2053597495033540608",
+        "location": "看我干嘛",
+        "name": "xnan（秽土转生版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053597934730792960/mfbZyFxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/Vdgxwy3eo9",
+        "username": "wen1029TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T16:00:20.000Z",
+        "description": "神经病小学生🚪52",
+        "id": "1848393837971914753",
+        "location": "河南",
+        "name": "洛翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925982794116702210/XAqiGlTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "mao0pasuki_nie",
+        "verified": false
+      }
+    ]
+  }
+}

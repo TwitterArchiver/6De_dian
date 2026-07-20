@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077272887468474435",
+    "created_at": "2026-07-15T07:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077298568327533042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077298568327533042",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077272887468474435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 天呐。。枢纽宝宝好瘦🥺🥺\n枢纽是超级好超级萌的宝宝，，要多一点好好的好好照顾自己啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6059,
+        "height": 1280,
+        "media_key": "7_2077272862759727104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2077272862759727104/pu/img/CyJj0_GVPCCkIENN.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077272862759727104/pu/vid/avc1/320x568/NljIHrXFfIISW2nF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077272862759727104/pu/vid/avc1/480x852/vtitdHmZM1DS4eY7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2077272862759727104/pu/vid/avc1/720x1280/mOeuCgunnbSjEXWA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2077272862759727104/pu/pl/4DkyWuSPTFBK0Ngb.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077272887468474435",
+        "created_at": "2026-07-15T07:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077298568327533042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077298568327533042",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077272887468474435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 天呐。。枢纽宝宝好瘦🥺🥺\n枢纽是超级好超级萌的宝宝，，要多一点好好的好好照顾自己啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2077272862759727104"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2077272887468474435",
+        "created_at": "2026-07-15T06:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077272887468474435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "edtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QwbcrQYZHc",
+              "end": 35,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2077272887468474435/video/1",
+              "media_key": "7_2077272862759727104",
+              "start": 12,
+              "url": "https://t.co/QwbcrQYZHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077272887468474435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ed是病。#edtwt https://t.co/QwbcrQYZHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 426,
+          "like_count": 9779,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1774
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 238,
+          "like_count": 1433,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

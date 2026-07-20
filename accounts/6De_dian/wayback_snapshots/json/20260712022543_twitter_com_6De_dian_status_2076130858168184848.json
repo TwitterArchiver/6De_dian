@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076090742624452914",
+    "created_at": "2026-07-12T02:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076130858168184848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2056401954537136128",
+          "start": 0,
+          "username": "9WAY02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076130858168184848",
+    "in_reply_to_user_id": "2056401954537136128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076090742624452914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9WAY02 好奇20！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2076090739780640768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_BhzoaYAACFv5.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076090742624452914",
+        "created_at": "2026-07-12T02:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076130858168184848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2056401954537136128",
+              "start": 0,
+              "username": "9WAY02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076130858168184848",
+        "in_reply_to_user_id": "2056401954537136128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076090742624452914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9WAY02 好奇20！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076090739780640768"
+          ]
+        },
+        "author_id": "2056401954537136128",
+        "conversation_id": "2076090742624452914",
+        "created_at": "2026-07-11T23:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076090742624452914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQFCGgIzLU",
+              "end": 30,
+              "expanded_url": "https://x.com/9WAY02/status/2076090742624452914/photo/1",
+              "media_key": "3_2076090739780640768",
+              "start": 7,
+              "url": "https://t.co/XQFCGgIzLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076090742624452914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我玩吧喵。 https://t.co/XQFCGgIzLU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 398,
+          "like_count": 9156,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1594
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T15:50:50.000Z",
+        "description": "ISFP/2011/初二/女/不是黄推不聊骚纯绿/查成分互fo/上推只为发颠",
+        "id": "2056401954537136128",
+        "location": "🚪52，纯绿不线下。支持微信和口令还有usdt。",
+        "name": "Dennis Nilsen",
+        "pinned_tweet_id": "2058180141281603668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057785546278371328/PX-Hx5Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 186,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "9WAY02",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2075769639032717313"
+      ],
+      "media_source_tweet_id": [
+        "2075769649803759862"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076134533234102522",
+    "created_at": "2026-07-12T02:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076134533234102522"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 113,
+          "start": 105,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914166367705530368",
+          "start": 3,
+          "username": "xiaomao_444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8djkWadEW",
+          "end": 137,
+          "expanded_url": "https://x.com/xiaomao_444/status/2075769649803759862/photo/1",
+          "media_key": "16_2075769639032717313",
+          "start": 114,
+          "url": "https://t.co/n8djkWadEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076134533234102522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075769649803759862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaomao_444: 我觉得我简直就是那部动画里的角色\n我跟动画里的人物太有共鸣了\n我曾经多少次在房间里翻找硬币去买毒品和香烟www\n我真希望现在有钱买毒品……....... 💔 \n\n我们是猫娘控 #drugtwt https://t.co/n8djkWadEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_2075769639032717313",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM6dfSIWAAExvD6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM6dfSIWAAExvD6.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075769639032717313"
+          ],
+          "media_source_tweet_id": [
+            "2075769649803759862"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076134533234102522",
+        "created_at": "2026-07-12T02:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076134533234102522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 105,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914166367705530368",
+              "start": 3,
+              "username": "xiaomao_444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8djkWadEW",
+              "end": 137,
+              "expanded_url": "https://x.com/xiaomao_444/status/2075769649803759862/photo/1",
+              "media_key": "16_2075769639032717313",
+              "start": 114,
+              "url": "https://t.co/n8djkWadEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076134533234102522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075769649803759862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaomao_444: 我觉得我简直就是那部动画里的角色\n我跟动画里的人物太有共鸣了\n我曾经多少次在房间里翻找硬币去买毒品和香烟www\n我真希望现在有钱买毒品……....... 💔 \n\n我们是猫娘控 #drugtwt https://t.co/n8djkWadEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2075769639032717313"
+          ]
+        },
+        "author_id": "1914166367705530368",
+        "conversation_id": "2075769649803759862",
+        "created_at": "2026-07-11T02:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075769649803759862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8djkWadEW",
+              "end": 120,
+              "expanded_url": "https://x.com/xiaomao_444/status/2075769649803759862/photo/1",
+              "media_key": "16_2075769639032717313",
+              "start": 97,
+              "url": "https://t.co/n8djkWadEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075769649803759862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我简直就是那部动画里的角色\n我跟动画里的人物太有共鸣了\n我曾经多少次在房间里翻找硬币去买毒品和香烟www\n我真希望现在有钱买毒品……....... 💔 \n\n我们是猫娘控 #drugtwt https://t.co/n8djkWadEW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 402,
+          "like_count": 9188,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T03:57:01.000Z",
+        "description": "Xiao Māo 𝚂𝚎𝚒𝚜𝚑𝚒𝚗-𝚝𝚎𝚔𝚒 𝚔𝚘𝚗𝚛𝚊𝚗🔩  SCCP  有时我想让自己消失 | 非二元性别 nb 💢 ISFP 21y | 精神不稳定 💢 我喜欢用毒品逃避现实🍁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/KaUrHyRsP",
+                "end": 23,
+                "expanded_url": "https://discord.gg/KaUrHyRsP",
+                "start": 0,
+                "url": "https://t.co/bB5OZCr2dw"
+              }
+            ]
+          }
+        },
+        "id": "1914166367705530368",
+        "location": "我想死",
+        "name": "Xiao Māo 小猫★ 🐼420",
+        "pinned_tweet_id": "2011089613293588707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074971349060087808/aeg90eTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 158,
+          "like_count": 3125,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/bB5OZCr2dw",
+        "username": "xiaomao_444",
+        "verified": false
+      }
+    ]
+  }
+}

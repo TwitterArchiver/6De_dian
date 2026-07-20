@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2075984369135571203",
+    "created_at": "2026-07-12T08:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076223250686746988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2054226432860327936",
+          "start": 0,
+          "username": "Aic_BKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076223250686746988",
+    "in_reply_to_user_id": "2054226432860327936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075984369135571203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aic_BKY 恭喜！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_2075984306338455552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9gukKW4AA-QWX.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2075984369135571203",
+        "created_at": "2026-07-12T08:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076223250686746988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2054226432860327936",
+              "start": 0,
+              "username": "Aic_BKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076223250686746988",
+        "in_reply_to_user_id": "2054226432860327936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075984369135571203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aic_BKY 恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075984306338455552"
+          ]
+        },
+        "author_id": "2054226432860327936",
+        "conversation_id": "2075984369135571203",
+        "created_at": "2026-07-11T16:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075984369135571203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjJKMtkVOO",
+              "end": 37,
+              "expanded_url": "https://x.com/Aic_BKY/status/2075984369135571203/photo/1",
+              "media_key": "3_2075984306338455552",
+              "start": 14,
+              "url": "https://t.co/PjJKMtkVOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075984369135571203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于是200fo了啪叽啪叽 https://t.co/PjJKMtkVOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 404,
+          "like_count": 9271,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1612
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T15:46:10.000Z",
+        "description": "15岁/来这里是为了什么来着/我喜欢聊天 请私信我/IMSB/maimai13100",
+        "id": "2054226432860327936",
+        "location": "门167/267纯绿好友位无区别",
+        "name": "AIC",
+        "pinned_tweet_id": "2072866574852141168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548785376296960/ISGxGY2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 249,
+          "like_count": 7080,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "Aic_BKY",
+        "verified": true
+      }
+    ]
+  }
+}

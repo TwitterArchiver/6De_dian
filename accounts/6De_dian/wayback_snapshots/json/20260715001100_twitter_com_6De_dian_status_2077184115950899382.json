@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077037136839405611",
+    "created_at": "2026-07-15T00:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T01:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077184115950899382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1883207896768651264",
+          "start": 0,
+          "username": "clem0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077184115950899382",
+    "in_reply_to_user_id": "1883207896768651264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077037136839405611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clem0216 果酒🤤\n鸡尾酒味道怪怪的🤔\n还是喜欢便宜的啤酒🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077037136839405611",
+        "created_at": "2026-07-15T00:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077184115950899382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1883207896768651264",
+              "start": 0,
+              "username": "clem0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077184115950899382",
+        "in_reply_to_user_id": "1883207896768651264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077037136839405611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clem0216 果酒🤤\n鸡尾酒味道怪怪的🤔\n还是喜欢便宜的啤酒🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883207896768651264",
+        "conversation_id": "2077037136839405611",
+        "created_at": "2026-07-14T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077037136839405611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077037136839405611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得鸡尾酒怎么样🤔果酒呢🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 426,
+          "like_count": 9721,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T17:39:01.000Z",
+        "description": "可互fo/09/中抑郁/中焦虑/od重度依赖/oder/偶尔视奸一下fo/准高三/休学中/查成分互fo",
+        "id": "1883207896768651264",
+        "name": "波奇酱",
+        "pinned_tweet_id": "2076686527732822218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 164,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "clem0216",
+        "verified": false
+      }
+    ]
+  }
+}

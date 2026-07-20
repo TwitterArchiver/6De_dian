@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077533831255454117",
+    "created_at": "2026-07-17T03:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077952247565062545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054410525854072832",
+          "start": 0,
+          "username": "Yang1shuai2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "Mr.me",
+          "end": 39,
+          "expanded_url": "http://Mr.me",
+          "start": 16,
+          "unwound_url": "http://Mr.me",
+          "url": "https://t.co/yjLxk8Y5Gy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077952247565062545",
+    "in_reply_to_user_id": "2054410525854072832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077900393858928927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yang1shuai2 谢谢你https://t.co/yjLxk8Y5Gy…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077533831255454117",
+        "created_at": "2026-07-17T03:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077952247565062545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054410525854072832",
+              "start": 0,
+              "username": "Yang1shuai2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "Mr.me",
+              "end": 39,
+              "expanded_url": "http://Mr.me",
+              "start": 16,
+              "unwound_url": "http://Mr.me",
+              "url": "https://t.co/yjLxk8Y5Gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077952247565062545",
+        "in_reply_to_user_id": "2054410525854072832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077900393858928927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yang1shuai2 谢谢你https://t.co/yjLxk8Y5Gy…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054410525854072832",
+        "conversation_id": "2077533831255454117",
+        "created_at": "2026-07-16T23:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077900393858928927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077900393858928927",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077533831255454117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 请节哀 感到郁闷有朋友们会一直支持你陪着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 435,
+          "like_count": 10078,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T03:58:12.000Z",
+        "description": "男/19岁/双向/自残/oder/策划药/有机化学.药理学爱好者/\n\nhttps://t.co/znnrs15gdr 任何问题欢迎提问 我会尽我所能去回答😄\n\n很开心与大家交朋友聊天😁能与大家认识我很开心😆欢迎互fo🥰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.me88014",
+                "end": 58,
+                "expanded_url": "https://ngl.link/mr.me88014",
+                "start": 35,
+                "url": "https://t.co/znnrs15gdr"
+              }
+            ]
+          }
+        },
+        "id": "2054410525854072832",
+        "name": "Mr.me",
+        "pinned_tweet_id": "2077228167081910354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066204021019578368/2ZfhzXkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 111,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Yang1shuai2",
+        "verified": false
+      }
+    ]
+  }
+}

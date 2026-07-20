@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076811490682683750",
+    "created_at": "2026-07-14T00:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076831076673065060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062758646141054976",
+          "start": 0,
+          "username": "Chuiertu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076831076673065060",
+    "in_reply_to_user_id": "2062758646141054976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076816815809015995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chuiertu_chan 晓…🥺🫂🫂💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076811490682683750",
+        "created_at": "2026-07-14T00:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076831076673065060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062758646141054976",
+              "start": 0,
+              "username": "Chuiertu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076831076673065060",
+        "in_reply_to_user_id": "2062758646141054976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076816815809015995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chuiertu_chan 晓…🥺🫂🫂💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062758646141054976",
+        "conversation_id": "2076811490682683750",
+        "created_at": "2026-07-13T23:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076816815809015995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076816815809015995",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076811490682683750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 我喜欢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 418,
+          "like_count": 9471,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1678
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T04:50:25.000Z",
+        "description": "坏蛋世界。双子星@AkiraTT_chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "AkiraTT_chan"
+              }
+            ]
+          }
+        },
+        "id": "2062758646141054976",
+        "name": "Akira_晓",
+        "pinned_tweet_id": "2076665457273180666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076663312704512000/9fIpz77U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 39,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Chuiertu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

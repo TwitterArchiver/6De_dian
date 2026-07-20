@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077001992938070474",
+    "created_at": "2026-07-14T20:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077125593049489576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1569188240128876545",
+          "start": 0,
+          "username": "for_4ngel_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077125593049489576",
+    "in_reply_to_user_id": "1569188240128876545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077001992938070474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel_2 这期很美味…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077001953952124928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNL-Rc8b0AApEv2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077001992938070474",
+        "created_at": "2026-07-14T20:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077125593049489576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1569188240128876545",
+              "start": 0,
+              "username": "for_4ngel_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077125593049489576",
+        "in_reply_to_user_id": "1569188240128876545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077001992938070474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel_2 这期很美味…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077001953952124928"
+          ]
+        },
+        "author_id": "1569188240128876545",
+        "conversation_id": "2077001992938070474",
+        "created_at": "2026-07-14T12:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077001992938070474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3Wp5xnOIf",
+              "end": 36,
+              "expanded_url": "https://x.com/for_4ngel_2/status/2077001992938070474/photo/1",
+              "media_key": "3_2077001953952124928",
+              "start": 13,
+              "url": "https://t.co/u3Wp5xnOIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077001992938070474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊宝宝你是一个盐野义 https://t.co/u3Wp5xnOIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 425,
+          "like_count": 9573,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1734
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T04:56:53.000Z",
+        "description": "这里是Angel二号机|大号@for_4ngel|♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "for_4ngel"
+              }
+            ]
+          }
+        },
+        "id": "1569188240128876545",
+        "name": "Angel #昴宿四",
+        "pinned_tweet_id": "2064422864489717816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 55,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "for_4ngel_2",
+        "verified": false
+      }
+    ]
+  }
+}

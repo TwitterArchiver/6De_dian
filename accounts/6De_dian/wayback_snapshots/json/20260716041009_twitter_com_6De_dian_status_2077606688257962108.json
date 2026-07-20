@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077606672915173376"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2077606688257962108",
+    "created_at": "2026-07-16T04:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077606688257962108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6dgLFMNvPk",
+          "end": 56,
+          "expanded_url": "https://x.com/6De_dian/status/2077606688257962108/photo/1",
+          "media_key": "3_2077606672915173376",
+          "start": 33,
+          "url": "https://t.co/6dgLFMNvPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077606688257962108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "omg感谢老大投喂。。\n😭😭💞💖\n唉真的好那个啊好溺爱我了。。。 https://t.co/6dgLFMNvPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2077606672915173376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUkQuoXEAAOgST.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077606672915173376"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2077606688257962108",
+        "created_at": "2026-07-16T04:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077606688257962108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dgLFMNvPk",
+              "end": 56,
+              "expanded_url": "https://x.com/6De_dian/status/2077606688257962108/photo/1",
+              "media_key": "3_2077606672915173376",
+              "start": 33,
+              "url": "https://t.co/6dgLFMNvPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077606688257962108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "omg感谢老大投喂。。\n😭😭💞💖\n唉真的好那个啊好溺爱我了。。。 https://t.co/6dgLFMNvPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱着：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 424,
+          "like_count": 9958,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1810
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

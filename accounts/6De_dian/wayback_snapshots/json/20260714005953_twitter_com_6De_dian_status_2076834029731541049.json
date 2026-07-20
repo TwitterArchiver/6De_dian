@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2076732669975478292",
+    "created_at": "2026-07-14T00:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076834029731541049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076834029731541049",
+    "in_reply_to_user_id": "2057552254463291393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076833647668142334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【？！阿片类内幻？！】\n8：30\n一些在地上瘫倒后的闭眼内幻\n很强烈的闯入视野，不太像那种自发的内源幻觉\n大概是我所在的那一个房间，在视觉中心出现一瓶蓝色的冰红茶\n已经冻成结冰了，差不多整个画面都是淡蓝色的\n接着世界都发出呲咔咔咔的声音结冰，随着一扇寒风的门向我敞开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076732669975478292",
+        "created_at": "2026-07-14T00:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076834029731541049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076834029731541049",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076833647668142334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【？！阿片类内幻？！】\n8：30\n一些在地上瘫倒后的闭眼内幻\n很强烈的闯入视野，不太像那种自发的内源幻觉\n大概是我所在的那一个房间，在视觉中心出现一瓶蓝色的冰红茶\n已经冻成结冰了，差不多整个画面都是淡蓝色的\n接着世界都发出呲咔咔咔的声音结冰，随着一扇寒风的门向我敞开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2076732669975478292",
+        "created_at": "2026-07-14T00:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076833647668142334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076833647668142334",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076813064121299029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7：45\nap余晖…\n我好晕呢。\n濒死感的，幸福\n\n上厕所有点艰难\n我今天得多喝点水啊\n\n8：00\n很明显的开始有点走不稳路。我的黑衬衫到处撞到墙上，然后沾了很多白色的墙灰。\n抽烟的时候手特别抖，全身都有点抖。\n\n但是我说了很多话，一直和人发消息吧。\n有一点虚无的、麻木的社交欲望和交流冲动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 420,
+          "like_count": 9481,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}
