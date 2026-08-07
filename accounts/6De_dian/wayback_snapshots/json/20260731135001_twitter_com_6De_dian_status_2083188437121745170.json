@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2082167716048490603",
+    "created_at": "2026-07-31T13:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083188437121745170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710365419306127360",
+          "start": 0,
+          "username": "RaquelBarr87553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083188437121745170",
+    "in_reply_to_user_id": "1710365419306127360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082167716048490603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RaquelBarr87553 不会不会，点击即送，除非要线下处方的，p一个就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2082167716048490603",
+        "created_at": "2026-07-31T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083188437121745170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710365419306127360",
+              "start": 0,
+              "username": "RaquelBarr87553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083188437121745170",
+        "in_reply_to_user_id": "1710365419306127360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082167716048490603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RaquelBarr87553 不会不会，点击即送，除非要线下处方的，p一个就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710365419306127360",
+        "conversation_id": "2082167716048490603",
+        "created_at": "2026-07-28T18:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082167716048490603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082167716048490603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pdd买处方药显示药师审核后发货会被卡吗？第一次在网上买处方药od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 488,
+          "like_count": 12097,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2173
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T18:45:21.000Z",
+        "description": "叫我流浪猫就好～4000+的无敌之人/全国漂泊中——感谢你的喜欢～我有九十九个理由抱怨现实，但我的朋友，你永远不会是其中之一！",
+        "id": "1710365419306127360",
+        "location": "在你的心里",
+        "name": "捨て猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082092424302825472/mLL_9SK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 145,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "RaquelBarr87553",
+        "verified": false
+      }
+    ]
+  }
+}

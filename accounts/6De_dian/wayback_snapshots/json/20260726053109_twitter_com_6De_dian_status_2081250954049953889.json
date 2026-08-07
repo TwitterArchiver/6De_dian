@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2081250954049953889",
+    "created_at": "2026-07-26T05:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081250954049953889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1611427229195505684",
+          "start": 3,
+          "username": "5xrw011zb26GBa1"
+        },
+        {
+          "end": 36,
+          "id": "1991711672684421121",
+          "start": 21,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081250954049953889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081112096142491664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5xrw011zb26GBa1: @pearl0812lucky 眼泪从未成为过神灯，只是一味的淋湿我的头发和枕头。。咸咸的，黏黏的，碰到伤口还会痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2081250954049953889",
+        "created_at": "2026-07-26T05:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081250954049953889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1611427229195505684",
+              "start": 3,
+              "username": "5xrw011zb26GBa1"
+            },
+            {
+              "end": 36,
+              "id": "1991711672684421121",
+              "start": 21,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081250954049953889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081112096142491664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5xrw011zb26GBa1: @pearl0812lucky 眼泪从未成为过神灯，只是一味的淋湿我的头发和枕头。。咸咸的，黏黏的，碰到伤口还会痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611427229195505684",
+        "conversation_id": "2080838919969738958",
+        "created_at": "2026-07-25T20:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T21:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081112096142491664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991711672684421121",
+              "start": 0,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081112096142491664",
+        "in_reply_to_user_id": "1991711672684421121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 498,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080838919969738958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pearl0812lucky 眼泪从未成为过神灯，只是一味的淋湿我的头发和枕头。。咸咸的，黏黏的，碰到伤口还会痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 484,
+          "like_count": 11607,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2086
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T18:24:09.000Z",
+        "description": "我愿奉上所有的真心， 只为得到最真挚的缪斯。",
+        "id": "1611427229195505684",
+        "location": "幸福的月光下",
+        "name": "白疥世旯",
+        "pinned_tweet_id": "2077515053146775925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903072855190896640/Lafuz7at_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 85,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2230
+        },
+        "url": "",
+        "username": "5xrw011zb26GBa1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11393,
+          "following_count": 78,
+          "like_count": 9053,
+          "listed_count": 12,
+          "media_count": 199,
+          "tweet_count": 2142
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

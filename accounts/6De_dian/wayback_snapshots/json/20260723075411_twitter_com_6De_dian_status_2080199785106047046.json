@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2080199785106047046",
+    "created_at": "2026-07-23T07:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080199785106047046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080199785106047046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呜呜宝宝们可以求投喂嘛…🥺\n没有米了一直在攒钱，，\n会发帖感谢QAQ\n如果宝宝想加我w的可以备注呀。。\n如果平时有什么问题我会尽力回复的TT\n也可以找我聊天！🥺\n有时候看推可能不那么及时…！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2080199785106047046",
+        "created_at": "2026-07-23T07:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080199785106047046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080199785106047046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜宝宝们可以求投喂嘛…🥺\n没有米了一直在攒钱，，\n会发帖感谢QAQ\n如果宝宝想加我w的可以备注呀。。\n如果平时有什么问题我会尽力回复的TT\n也可以找我聊天！🥺\n有时候看推可能不那么及时…！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 461,
+          "like_count": 11177,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2013
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

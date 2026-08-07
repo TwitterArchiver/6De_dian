@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2078882312381669428",
+    "created_at": "2026-07-19T19:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078919411885293847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968940871660744705",
+          "start": 0,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078919411885293847",
+    "in_reply_to_user_id": "1968940871660744705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078882312381669428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest07080279 好可爱。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2078882249123246080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmsZCTbMAAQ7EW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1166,
+        "media_key": "3_2078882270983974912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmsaTvbcAANJ2P.jpg",
+        "width": 1166
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2078882285114605568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmsbIYbwAAe1ju.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2078882300100845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmscANboAAb5qR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2078882312381669428",
+        "created_at": "2026-07-19T19:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078919411885293847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968940871660744705",
+              "start": 0,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078919411885293847",
+        "in_reply_to_user_id": "1968940871660744705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078882312381669428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest07080279 好可爱。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078882249123246080",
+            "3_2078882270983974912",
+            "3_2078882285114605568",
+            "3_2078882300100845568"
+          ]
+        },
+        "author_id": "1968940871660744705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2078882312381669428",
+        "created_at": "2026-07-19T16:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078882312381669428"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "絵柄が好みって人にフォローされたい"
+            },
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 49,
+              "start": 34,
+              "tag": "夏の創作クラスターフォロー祭"
+            },
+            {
+              "end": 64,
+              "start": 51,
+              "tag": "artmootsㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtiomyfCJC",
+              "end": 132,
+              "expanded_url": "https://x.com/guest07080279/status/2078882312381669428/photo/1",
+              "media_key": "3_2078882249123246080",
+              "start": 109,
+              "url": "https://t.co/EtiomyfCJC"
+            },
+            {
+              "display_url": "pic.x.com/EtiomyfCJC",
+              "end": 132,
+              "expanded_url": "https://x.com/guest07080279/status/2078882312381669428/photo/1",
+              "media_key": "3_2078882270983974912",
+              "start": 109,
+              "url": "https://t.co/EtiomyfCJC"
+            },
+            {
+              "display_url": "pic.x.com/EtiomyfCJC",
+              "end": 132,
+              "expanded_url": "https://x.com/guest07080279/status/2078882312381669428/photo/1",
+              "media_key": "3_2078882285114605568",
+              "start": 109,
+              "url": "https://t.co/EtiomyfCJC"
+            },
+            {
+              "display_url": "pic.x.com/EtiomyfCJC",
+              "end": 132,
+              "expanded_url": "https://x.com/guest07080279/status/2078882312381669428/photo/1",
+              "media_key": "3_2078882300100845568",
+              "start": 109,
+              "url": "https://t.co/EtiomyfCJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078882312381669428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#絵柄が好みって人にフォローされたい ​\n#絵描きさんと繋がりたい\n#夏の創作クラスターフォロー祭 \n#artmootsㅤㅤㅤㅤ\n随意地画着感兴趣的孩子，代理酱和偶尔游戏！常画可爱的少年少女们💖\n会巡回所有反应🥺💖！ https://t.co/EtiomyfCJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 450,
+          "like_count": 10748,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "❤️♻️👤长时间巡回中！无言关注失礼了！\n             /中文ok  Eng&日本語 翻译器ok💖💖/   \n碎碎念@PaulaRiver9119  有负面预警😈⚠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "PaulaRiver9119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/ifE2Zp4Uvd"
+              }
+            ]
+          }
+        },
+        "id": "1968940871660744705",
+        "location": "👫大欢迎♡——",
+        "name": "砂",
+        "pinned_tweet_id": "2078117633346711902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 67,
+          "like_count": 9383,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/ifE2Zp4Uvd",
+        "username": "guest07080279",
+        "verified": true
+      }
+    ]
+  }
+}

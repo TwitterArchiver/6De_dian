@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2083112579333869741",
+    "created_at": "2026-07-31T08:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083112579333869741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2082797554467762341",
+          "start": 18,
+          "url": "https://t.co/XzsIwGEmhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083112579333869741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082797554467762341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/XzsIwGEmhE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2083112579333869741",
+        "created_at": "2026-07-31T08:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083112579333869741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2082797554467762341",
+              "start": 18,
+              "url": "https://t.co/XzsIwGEmhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083112579333869741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082797554467762341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/XzsIwGEmhE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082797554467762341",
+        "created_at": "2026-07-30T11:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082797554467762341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki312813/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Yuki312813/status/2082728525363351727",
+              "start": 18,
+              "url": "https://t.co/8FG7fFzuZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082797554467762341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3541,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082728525363351727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/8FG7fFzuZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 480,
+          "like_count": 11991,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2160
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 165,
+          "like_count": 8538,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1852
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

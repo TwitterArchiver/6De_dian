@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2082157484433612883",
+    "created_at": "2026-07-28T18:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082176400878973252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2017265599890550784",
+          "start": 0,
+          "username": "wasabi431735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082176400878973252",
+    "in_reply_to_user_id": "2017265599890550784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082175249827995775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabi431735 中国人能飞🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2082157484433612883",
+        "created_at": "2026-07-28T18:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082176400878973252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2017265599890550784",
+              "start": 0,
+              "username": "wasabi431735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082176400878973252",
+        "in_reply_to_user_id": "2017265599890550784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082175249827995775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabi431735 中国人能飞🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017265599890550784",
+        "conversation_id": "2082157484433612883",
+        "created_at": "2026-07-28T18:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082175249827995775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082175249827995775",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082157484433612883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 485,
+          "like_count": 11844,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2125
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T15:56:26.000Z",
+        "description": "活在阳光下的老鼠人",
+        "id": "2017265599890550784",
+        "name": "wasabi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "wasabi431735",
+        "verified": false
+      }
+    ]
+  }
+}

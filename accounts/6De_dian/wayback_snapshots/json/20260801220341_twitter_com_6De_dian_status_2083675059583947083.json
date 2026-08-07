@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083674222212120576"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083675059583947083",
+    "created_at": "2026-08-01T22:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T23:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083675059583947083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSwfY0dFNW",
+          "end": 124,
+          "expanded_url": "https://x.com/6De_dian/status/2083675059583947083/photo/1",
+          "media_key": "3_2083674222212120576",
+          "start": 101,
+          "url": "https://t.co/nSwfY0dFNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083675059583947083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给小66约稿了👅这期斯哈了然后对的就是\n6点哥  你真的、自由子\n\n因为我觉得很可爱所以我发发\n上一次约稿竟然是24年10月之前的事了、\nos搞oc6年👽\n给oc约稿的钱竟然不超过60\n好吧，好吧， https://t.co/nSwfY0dFNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083674222212120576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqyqlKXgAAiOzj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083674222212120576"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083675059583947083",
+        "created_at": "2026-08-01T22:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083675059583947083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSwfY0dFNW",
+              "end": 124,
+              "expanded_url": "https://x.com/6De_dian/status/2083675059583947083/photo/1",
+              "media_key": "3_2083674222212120576",
+              "start": 101,
+              "url": "https://t.co/nSwfY0dFNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083675059583947083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给小66约稿了👅这期斯哈了然后对的就是\n6点哥  你真的、自由子\n\n因为我觉得很可爱所以我发发\n上一次约稿竟然是24年10月之前的事了、\nos搞oc6年👽\n给oc约稿的钱竟然不超过60\n好吧，好吧， https://t.co/nSwfY0dFNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 533,
+          "like_count": 12500,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2272
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

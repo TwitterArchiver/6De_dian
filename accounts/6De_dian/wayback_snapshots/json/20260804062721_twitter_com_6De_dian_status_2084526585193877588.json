@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2084430108396519717",
+    "created_at": "2026-08-04T06:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084526585193877588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084526585193877588",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084430108396519717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 舒服啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2084430071939715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1iG00b0AAhhOA.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2084430081737601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1iHZUbsAAzFPO.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2084430089710968832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1iH3BboAAqXkZ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2084430100716765184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1iIgBawAAc_V9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084430108396519717",
+        "created_at": "2026-08-04T06:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084526585193877588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084526585193877588",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084430108396519717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 舒服啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084430071939715072",
+            "3_2084430081737601024",
+            "3_2084430089710968832",
+            "3_2084430100716765184"
+          ]
+        },
+        "author_id": "2076280150044610560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084430108396519717",
+        "created_at": "2026-08-04T00:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084430108396519717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2yC1W3k6Cv",
+              "end": 73,
+              "expanded_url": "https://x.com/Antares04_8964/status/2084430108396519717/photo/1",
+              "media_key": "3_2084430071939715072",
+              "start": 50,
+              "url": "https://t.co/2yC1W3k6Cv"
+            },
+            {
+              "display_url": "pic.x.com/2yC1W3k6Cv",
+              "end": 73,
+              "expanded_url": "https://x.com/Antares04_8964/status/2084430108396519717/photo/1",
+              "media_key": "3_2084430081737601024",
+              "start": 50,
+              "url": "https://t.co/2yC1W3k6Cv"
+            },
+            {
+              "display_url": "pic.x.com/2yC1W3k6Cv",
+              "end": 73,
+              "expanded_url": "https://x.com/Antares04_8964/status/2084430108396519717/photo/1",
+              "media_key": "3_2084430089710968832",
+              "start": 50,
+              "url": "https://t.co/2yC1W3k6Cv"
+            },
+            {
+              "display_url": "pic.x.com/2yC1W3k6Cv",
+              "end": 73,
+              "expanded_url": "https://x.com/Antares04_8964/status/2084430108396519717/photo/1",
+              "media_key": "3_2084430100716765184",
+              "start": 50,
+              "url": "https://t.co/2yC1W3k6Cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084430108396519717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在拥有的所有物质\n(过两天还会更新)\n(超级屯屯鼠这一块😋)\n\n(根据处方用药，拒绝药物滥用) https://t.co/2yC1W3k6Cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 572,
+          "like_count": 13312,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵    /    /(这里是煜3.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "pinned_tweet_id": "2083950935563489667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 41,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/7kJ3zIrxwy",
+        "username": "Antares04_8964",
+        "verified": false
+      }
+    ]
+  }
+}

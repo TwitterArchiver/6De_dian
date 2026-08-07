@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2080223940480544939",
+    "created_at": "2026-07-23T09:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080230568977932377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897607776706215936",
+          "start": 0,
+          "username": "love010149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080230568977932377",
+    "in_reply_to_user_id": "1897607776706215936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080223940480544939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love010149 我天呢。。摸摸老大🥺\n好强大的意志力，，很疼吧TwT\n*抱抱🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1983,
+        "media_key": "3_2080223923858522112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5woyLbQAAF7jJ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2080223940480544939",
+        "created_at": "2026-07-23T09:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080230568977932377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897607776706215936",
+              "start": 0,
+              "username": "love010149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080230568977932377",
+        "in_reply_to_user_id": "1897607776706215936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080223940480544939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love010149 我天呢。。摸摸老大🥺\n好强大的意志力，，很疼吧TwT\n*抱抱🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080223923858522112"
+          ]
+        },
+        "author_id": "1897607776706215936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080223940480544939",
+        "created_at": "2026-07-23T09:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080223940480544939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 3,
+              "tag": "自切"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GmVtdI4qi",
+              "end": 35,
+              "expanded_url": "https://x.com/love010149/status/2080223940480544939/photo/1",
+              "media_key": "3_2080223923858522112",
+              "start": 12,
+              "url": "https://t.co/1GmVtdI4qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080223940480544939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋蛋 #自切 #mtf https://t.co/1GmVtdI4qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 475,
+          "like_count": 11346,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T11:18:54.000Z",
+        "description": "mtf🏳️‍⚧️🍥互f0",
+        "id": "1897607776706215936",
+        "name": "-00-无无🌙🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075915416514478080/_TaRixGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 671,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "love010149",
+        "verified": false
+      }
+    ]
+  }
+}

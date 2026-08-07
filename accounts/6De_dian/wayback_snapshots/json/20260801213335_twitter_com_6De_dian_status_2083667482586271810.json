@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083546924058300416"
+      ],
+      "media_source_tweet_id": [
+        "2083546954777432227"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2083667482586271810",
+    "created_at": "2026-08-01T21:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083667482586271810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "705087107849703424",
+          "start": 3,
+          "username": "NomfusiSetlhodi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5sIz7mT0QQ",
+          "end": 55,
+          "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083546954777432227/photo/1",
+          "media_key": "3_2083546924058300416",
+          "start": 32,
+          "url": "https://t.co/5sIz7mT0QQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083667482586271810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083546954777432227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NomfusiSetlhodi: 这个是我呀，一个蛋仔 https://t.co/5sIz7mT0QQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2083546924058300416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo-42laUAAQ0Hq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083546924058300416"
+          ]
+        },
+        "author_id": "705087107849703424",
+        "conversation_id": "2083546954777432227",
+        "created_at": "2026-08-01T13:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083546954777432227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sIz7mT0QQ",
+              "end": 34,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083546954777432227/photo/1",
+              "media_key": "3_2083546924058300416",
+              "start": 11,
+              "url": "https://t.co/5sIz7mT0QQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083546954777432227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个是我呀，一个蛋仔 https://t.co/5sIz7mT0QQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083546924058300416"
+          ],
+          "media_source_tweet_id": [
+            "2083546954777432227"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2083667482586271810",
+        "created_at": "2026-08-01T21:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083667482586271810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "705087107849703424",
+              "start": 3,
+              "username": "NomfusiSetlhodi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5sIz7mT0QQ",
+              "end": 55,
+              "expanded_url": "https://x.com/NomfusiSetlhodi/status/2083546954777432227/photo/1",
+              "media_key": "3_2083546924058300416",
+              "start": 32,
+              "url": "https://t.co/5sIz7mT0QQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083667482586271810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083546954777432227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NomfusiSetlhodi: 这个是我呀，一个蛋仔 https://t.co/5sIz7mT0QQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 530,
+          "like_count": 12493,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2267
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "认出我。\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 97,
+                "start": 82,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 57,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

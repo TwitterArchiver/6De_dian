@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2081247014835106148",
+    "created_at": "2026-07-26T05:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081247014835106148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773119589062418432",
+          "start": 3,
+          "username": "Ed5JelrpAd93177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081247014835106148",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3047
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080958682712719542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ed5JelrpAd93177: 원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2081247014835106148",
+        "created_at": "2026-07-26T05:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081247014835106148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773119589062418432",
+              "start": 3,
+              "username": "Ed5JelrpAd93177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081247014835106148",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3047
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080958682712719542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ed5JelrpAd93177: 원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773119589062418432",
+        "conversation_id": "2080958682712719542",
+        "created_at": "2026-07-25T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080958682712719542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080958682712719542",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1398,
+          "impression_count": 260033,
+          "like_count": 6890,
+          "quote_count": 808,
+          "reply_count": 1,
+          "retweet_count": 3047
+        },
+        "reply_settings": "everyone",
+        "text": "원래 사랑은 역겹고 추잡하고 졸렬하고\n질척하고 끈적하고 더럽고 구역질나고\n메스껍고 불결하고 음험하고 우울하고\n음침하고 무섭고 상스럽고 껄끄럽고\n불편하고 혐오스럽고 버러지같고 짜증나고\n섬뜩하고 쇠약하고 병적이고 증오스럽고\n한심해야 아름답다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 483,
+          "like_count": 11555,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2084
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T22:47:18.000Z",
+        "description": "부계: @haeju_2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "haeju_2"
+              }
+            ]
+          }
+        },
+        "id": "1773119589062418432",
+        "location": "폐쇄병동",
+        "name": "해줘",
+        "pinned_tweet_id": "2062533651313914356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060725368802492416/_qkGu633_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 272,
+          "like_count": 13577,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Ed5JelrpAd93177",
+        "verified": true
+      }
+    ]
+  }
+}

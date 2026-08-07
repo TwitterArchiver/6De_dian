@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2080117153899114855",
+    "created_at": "2026-07-23T09:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080226652152324259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958564025727664128",
+          "start": 0,
+          "username": "SNS142148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080226652152324259",
+    "in_reply_to_user_id": "1958564025727664128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080117153899114855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNS142148 是这样。。ap会释放组胺，如果量大的话，会让人觉得身上痒痒的痒痒痒痒痒痒，一直挠痒痒痒痒痒痒——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2080117153899114855",
+        "created_at": "2026-07-23T09:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080226652152324259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958564025727664128",
+              "start": 0,
+              "username": "SNS142148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080226652152324259",
+        "in_reply_to_user_id": "1958564025727664128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080117153899114855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNS142148 是这样。。ap会释放组胺，如果量大的话，会让人觉得身上痒痒的痒痒痒痒痒痒，一直挠痒痒痒痒痒痒——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958564025727664128",
+        "conversation_id": "2080117153899114855",
+        "created_at": "2026-07-23T02:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080117153899114855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080117153899114855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 身上好癢 跟蟲子爬一樣 阿片是這樣的嗎🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 475,
+          "like_count": 11322,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2036
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:17:14.000Z",
+        "description": "可以叫我橙子喔！可互fo/偏执狂/INFP/OD💊/重度XP享受者/性别酷儿🏳️‍🌈/药理学习ins…/重度焦虑/双相/ADHD/日本語を学んでいます\n提问箱：https://t.co/VRLP0B0UmF\n不鼓励进行任何滥用行为！只做日常分享\n如果让你感到不适请私信我删除相关内容HRT：2023.5.31",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sns142148",
+                "end": 103,
+                "expanded_url": "https://ngl.link/sns142148",
+                "start": 80,
+                "url": "https://t.co/VRLP0B0UmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LOVEsnsoverdose",
+                "end": 23,
+                "expanded_url": "https://t.me/LOVEsnsoverdose",
+                "start": 0,
+                "url": "https://t.co/XfQ0VJ1q30"
+              }
+            ]
+          }
+        },
+        "id": "1958564025727664128",
+        "location": "歌舞伎町",
+        "name": "賢妻良母橙味糖Pro",
+        "pinned_tweet_id": "2058670486503240005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958564147328901120/OGultXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 100,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/XfQ0VJ1q30",
+        "username": "SNS142148",
+        "verified": false
+      }
+    ]
+  }
+}

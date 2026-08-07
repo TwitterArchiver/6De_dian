@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2084622851575894333",
+    "created_at": "2026-08-04T14:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084646067451113826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        },
+        {
+          "end": 28,
+          "id": "1874465078642388992",
+          "start": 16,
+          "username": "NevenL25237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084646067451113826",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084645881492767054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 @NevenL25237 ohno。。我揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084622851575894333",
+        "created_at": "2026-08-04T14:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084646067451113826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            },
+            {
+              "end": 28,
+              "id": "1874465078642388992",
+              "start": 16,
+              "username": "NevenL25237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084646067451113826",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084645881492767054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 @NevenL25237 ohno。。我揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076280150044610560",
+        "conversation_id": "2084622851575894333",
+        "created_at": "2026-08-04T14:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084645881492767054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            },
+            {
+              "end": 22,
+              "id": "1874465078642388992",
+              "start": 10,
+              "username": "NevenL25237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084645881492767054",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084644664448053579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian @NevenL25237 没那么舒服…我刚才在我屋子里头走，一下磕到床沿上了，啊，我快疼死了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 568,
+          "like_count": 13578,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵    /    /(这里是煜3.0)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 0,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "pinned_tweet_id": "2083950935563489667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 41,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/7kJ3zIrxwy",
+        "username": "Antares04_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:38:53.000Z",
+        "description": "爱情是治疗一切的良药。",
+        "id": "1874465078642388992",
+        "location": "上海",
+        "name": "静静",
+        "pinned_tweet_id": "2082515164923150594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076470612927864832/xA874v1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 490,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "NevenL25237",
+        "verified": false
+      }
+    ]
+  }
+}

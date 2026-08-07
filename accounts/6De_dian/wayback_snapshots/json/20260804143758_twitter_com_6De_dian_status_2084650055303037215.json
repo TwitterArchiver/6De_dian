@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2084650055303037215",
+    "created_at": "2026-08-04T14:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084650055303037215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yummy9vq/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/yummy9vq/status/2084450526436131131",
+          "start": 29,
+          "url": "https://t.co/YrpXNVSVSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084650055303037215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084450526436131131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去医院装啥子我就这样好吧、\n医生我问了豆包好像是神经痛 https://t.co/YrpXNVSVSp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084650055303037215",
+        "created_at": "2026-08-04T14:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084650055303037215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yummy9vq/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/yummy9vq/status/2084450526436131131",
+              "start": 29,
+              "url": "https://t.co/YrpXNVSVSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084650055303037215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084450526436131131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去医院装啥子我就这样好吧、\n医生我问了豆包好像是神经痛 https://t.co/YrpXNVSVSp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493207192622845957",
+        "conversation_id": "2084450526436131131",
+        "created_at": "2026-08-04T01:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084450526436131131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084450526436131131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 115021,
+          "like_count": 2341,
+          "quote_count": 20,
+          "reply_count": 428,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个很小众的怒点就是有人说“我问了豆包”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 568,
+          "like_count": 13599,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2511
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T12:55:26.000Z",
+        "description": "好吃懒做型选手🙋｜碎碎念｜想到什么发什么｜不招嫖不约炮｜推广自辨(注意评论开关）｜愿意听我絮叨就关注我喔",
+        "id": "1493207192622845957",
+        "location": "电报🚪99",
+        "name": "yummy",
+        "pinned_tweet_id": "2083495359666602329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062388823477407745/1rKMiIGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16966,
+          "following_count": 348,
+          "like_count": 5368,
+          "listed_count": 95,
+          "media_count": 238,
+          "tweet_count": 4521
+        },
+        "url": "",
+        "username": "yummy9vq",
+        "verified": true
+      }
+    ]
+  }
+}

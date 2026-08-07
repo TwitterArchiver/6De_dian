@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2083534029727351203",
+    "created_at": "2026-08-01T12:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083534029727351203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Axer1a/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/_Axer1a/status/2083530152286507425",
+          "start": 39,
+          "url": "https://t.co/Df9dlp5Axj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083534029727351203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083530152286507425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/Df9dlp5Axj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2083534029727351203",
+        "created_at": "2026-08-01T12:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083534029727351203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Axer1a/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/_Axer1a/status/2083530152286507425",
+              "start": 39,
+              "url": "https://t.co/Df9dlp5Axj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083534029727351203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083530152286507425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/Df9dlp5Axj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494669485214633984",
+        "conversation_id": "2083530152286507425",
+        "created_at": "2026-08-01T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083530152286507425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asakawatsubaki…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Asakawatsubaki2/status/2083515787835502899",
+              "start": 39,
+              "url": "https://t.co/5Dckey4mAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083530152286507425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515787835502899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/5Dckey4mAN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 512,
+          "like_count": 12283,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2222
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音 enby 嗑药区。\n恋人@wushibirch8964         \n29元1000g不限时vpn https://t.co/tzavRF1rYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "wushibirch8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 79,
+                "expanded_url": "https://www.tz86.vip/#/register?code=OIafQmNt",
+                "start": 56,
+                "url": "https://t.co/tzavRF1rYv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/v10l3t86032",
+                "end": 23,
+                "expanded_url": "https://ngl.link/v10l3t86032",
+                "start": 0,
+                "url": "https://t.co/Pe8etzg87D"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 1828,
+          "like_count": 84333,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 5305
+        },
+        "url": "https://t.co/Pe8etzg87D",
+        "username": "_Axer1a",
+        "verified": false
+      }
+    ]
+  }
+}

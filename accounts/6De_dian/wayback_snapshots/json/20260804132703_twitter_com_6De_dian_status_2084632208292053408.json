@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2084632208292053408",
+    "created_at": "2026-08-04T13:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084632208292053408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/M77TnT/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/M77TnT/status/2084583705390256204",
+          "start": 12,
+          "url": "https://t.co/dzVNJQRr4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084632208292053408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084583705390256204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽快回来呀77😭😭😭 https://t.co/dzVNJQRr4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084583696229945344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3t075bUAANdBP.jpg",
+        "width": 943
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2084583696234168320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3t076bwAAVJ6Y.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084632208292053408",
+        "created_at": "2026-08-04T13:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084632208292053408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/M77TnT/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/M77TnT/status/2084583705390256204",
+              "start": 12,
+              "url": "https://t.co/dzVNJQRr4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084632208292053408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084583705390256204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽快回来呀77😭😭😭 https://t.co/dzVNJQRr4a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084583696229945344",
+            "3_2084583696234168320"
+          ]
+        },
+        "author_id": "1720373066445012992",
+        "conversation_id": "2084583705390256204",
+        "created_at": "2026-08-04T10:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084583705390256204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SECTfCDzX6",
+              "end": 35,
+              "expanded_url": "https://x.com/M77TnT/status/2084583705390256204/photo/1",
+              "media_key": "3_2084583696229945344",
+              "start": 12,
+              "url": "https://t.co/SECTfCDzX6"
+            },
+            {
+              "display_url": "pic.x.com/SECTfCDzX6",
+              "end": 35,
+              "expanded_url": "https://x.com/M77TnT/status/2084583705390256204/photo/1",
+              "media_key": "3_2084583696234168320",
+              "start": 12,
+              "url": "https://t.co/SECTfCDzX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084583705390256204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封了 互fo寻回 https://t.co/SECTfCDzX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 567,
+          "like_count": 13544,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2495
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T09:31:27.000Z",
+        "description": "",
+        "id": "1720373066445012992",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076633586145579008/jfUZ5s4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "M77TnT",
+        "verified": false
+      }
+    ]
+  }
+}

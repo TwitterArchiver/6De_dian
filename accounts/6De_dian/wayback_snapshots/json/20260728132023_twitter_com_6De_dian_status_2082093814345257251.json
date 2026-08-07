@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2082093814345257251",
+    "created_at": "2026-07-28T13:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082093814345257251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2081955880049017177",
+          "start": 20,
+          "url": "https://t.co/exB8JVTR92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082093814345257251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081955880049017177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就偶尔吸吸毒 磕磕药 很少喝酒抽烟的 https://t.co/exB8JVTR92"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2082093814345257251",
+        "created_at": "2026-07-28T13:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082093814345257251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2081955880049017177",
+              "start": 20,
+              "url": "https://t.co/exB8JVTR92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082093814345257251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081955880049017177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就偶尔吸吸毒 磕磕药 很少喝酒抽烟的 https://t.co/exB8JVTR92"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081955880049017177",
+        "created_at": "2026-07-28T04:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081955880049017177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Victor_zhang23…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Victor_zhang233/status/2081648891049722060",
+              "start": 20,
+              "url": "https://t.co/fjU1utKKxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081955880049017177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2786,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081648891049722060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就偶尔吸吸毒 磕磕药 很少喝酒抽烟的 https://t.co/fjU1utKKxF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 483,
+          "like_count": 11680,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2099
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 158,
+          "like_count": 8393,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1697
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

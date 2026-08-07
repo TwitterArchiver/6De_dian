@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2078615527376015459",
+    "created_at": "2026-07-20T13:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079196768944759265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1566631230686302208",
+          "start": 0,
+          "username": "Linn86556545"
+        },
+        {
+          "end": 23,
+          "id": "1898308906994294784",
+          "start": 14,
+          "username": "TTBRAr12"
+        },
+        {
+          "end": 36,
+          "id": "1962759363246129152",
+          "start": 24,
+          "username": "YeXing85072"
+        },
+        {
+          "end": 49,
+          "id": "2038184435477319680",
+          "start": 37,
+          "username": "MIMIsamaOvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079196768944759265",
+    "in_reply_to_user_id": "1566631230686302208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079022106923164133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linn86556545 @TTBRAr12 @YeXing85072 @MIMIsamaOvo 会痛到爆炸，有叔丁基。。\n会心动过速加心悸\n不如别的兴奋剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2078615527376015459",
+        "created_at": "2026-07-20T13:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079196768944759265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1566631230686302208",
+              "start": 0,
+              "username": "Linn86556545"
+            },
+            {
+              "end": 23,
+              "id": "1898308906994294784",
+              "start": 14,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 36,
+              "id": "1962759363246129152",
+              "start": 24,
+              "username": "YeXing85072"
+            },
+            {
+              "end": 49,
+              "id": "2038184435477319680",
+              "start": 37,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079196768944759265",
+        "in_reply_to_user_id": "1566631230686302208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079022106923164133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linn86556545 @TTBRAr12 @YeXing85072 @MIMIsamaOvo 会痛到爆炸，有叔丁基。。\n会心动过速加心悸\n不如别的兴奋剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566631230686302208",
+        "conversation_id": "2078615527376015459",
+        "created_at": "2026-07-20T01:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079022106923164133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 22,
+              "id": "1962759363246129152",
+              "start": 10,
+              "username": "YeXing85072"
+            },
+            {
+              "end": 35,
+              "id": "2038184435477319680",
+              "start": 23,
+              "username": "MIMIsamaOvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079022106923164133",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078795796242448888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 @YeXing85072 @MIMIsamaOvo 同问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 458,
+          "like_count": 10929,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1993
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T03:36:19.000Z",
+        "description": "",
+        "id": "1566631230686302208",
+        "name": "Linn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659351335370731520/NsWK16N-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 247,
+          "like_count": 4699,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "Linn86556545",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 922,
+          "like_count": 7817,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      },
+      {
+        "created_at": "2025-09-02T06:08:06.000Z",
+        "description": "字的天使仍在持续深入的探索他",
+        "id": "1962759363246129152",
+        "name": "星子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078790288156569600/YRB0meFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 663,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "YeXing85072",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 35,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

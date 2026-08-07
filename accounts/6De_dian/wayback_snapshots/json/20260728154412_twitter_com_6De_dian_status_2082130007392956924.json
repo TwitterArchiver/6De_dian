@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2082130007392956924",
+    "created_at": "2026-07-28T15:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082130007392956924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901339878966636544",
+          "start": 3,
+          "username": "tteokki9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082130007392956924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082025414529327201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tteokki9: 你惹我我确实没法开户你 但我对着你照片导两管你有办法吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2082130007392956924",
+        "created_at": "2026-07-28T15:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082130007392956924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901339878966636544",
+              "start": 3,
+              "username": "tteokki9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082130007392956924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082025414529327201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tteokki9: 你惹我我确实没法开户你 但我对着你照片导两管你有办法吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "2082025414529327201",
+        "created_at": "2026-07-28T08:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082025414529327201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082025414529327201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10549,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你惹我我确实没法开户你 但我对着你照片导两管你有办法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 486,
+          "like_count": 11778,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2114
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 私信只回有意思的 你找不到任何攻击我的地方 因为我只是一个和你共存同个地球争着吸多点氧气让你断气活不下去的小可爱 随便发着玩@yokyo7lly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "yokyo7lly"
+              }
+            ]
+          }
+        },
+        "id": "1901339878966636544",
+        "location": "0.1km",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005152049189797889/D1ONNjj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6865,
+          "following_count": 86,
+          "like_count": 4705,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 3345
+        },
+        "url": "",
+        "username": "tteokki9",
+        "verified": false
+      }
+    ]
+  }
+}

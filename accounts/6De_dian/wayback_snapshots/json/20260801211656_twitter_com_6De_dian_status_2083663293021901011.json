@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2083444532814000350",
+    "created_at": "2026-08-01T21:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083663293021901011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878984105183920128",
+          "start": 0,
+          "username": "EternalSterne"
+        },
+        {
+          "end": 24,
+          "id": "886641021588611072",
+          "start": 15,
+          "username": "QY404MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083663293021901011",
+    "in_reply_to_user_id": "1878984105183920128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083520914273239530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EternalSterne @QY404MTF 感觉条件有限也只能利卡多因了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2083444532814000350",
+        "created_at": "2026-08-01T21:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083663293021901011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878984105183920128",
+              "start": 0,
+              "username": "EternalSterne"
+            },
+            {
+              "end": 24,
+              "id": "886641021588611072",
+              "start": 15,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083663293021901011",
+        "in_reply_to_user_id": "1878984105183920128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083520914273239530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EternalSterne @QY404MTF 感觉条件有限也只能利卡多因了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878984105183920128",
+        "conversation_id": "2083444532814000350",
+        "created_at": "2026-08-01T11:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083520914273239530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886641021588611072",
+              "start": 0,
+              "username": "QY404MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083520914273239530",
+        "in_reply_to_user_id": "886641021588611072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083444532814000350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QY404MTF 麻药怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 529,
+          "like_count": 12479,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2263
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T01:55:16.000Z",
+        "description": "私わSternenstaub☆Lichtyahr「凌恒」Foreverです☆~\nOtaku + Linux & FOSS\nCapable of a bit Python, C++, Html\nCall me if you want newbee contributor to mess up your poi☆ject~",
+        "id": "1878984105183920128",
+        "location": "Mars (+8:00 UTC)",
+        "name": "Lichtyahr☮Σternenstaub💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878984195604951040/ku0c466G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 79,
+          "like_count": 3326,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "EternalSterne",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林/加巴喷丁重度依赖｜odzc｜hrt：2025.5.31｜常驻长春｜精神超级烂｜碳酸钡自杀复活ing｜一个月自杀两回之人｜最迟9月15自切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvcXQ"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "千夜404🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2083064847663784192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083099132227637248/KjMi3-th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1346,
+          "following_count": 82,
+          "like_count": 187,
+          "listed_count": 24,
+          "media_count": 58,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/vttA1wvcXQ",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}
