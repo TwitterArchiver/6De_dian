@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2034621869333364840",
+    "created_at": "2026-08-07T19:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T20:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085803624450367740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450006797041868802",
+          "start": 0,
+          "username": "ljy2701219119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085803624450367740",
+    "in_reply_to_user_id": "1450006797041868802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034621869333364840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljy2701219119 支持呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2034621869333364840",
+        "created_at": "2026-08-07T19:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085803624450367740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450006797041868802",
+              "start": 0,
+              "username": "ljy2701219119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085803624450367740",
+        "in_reply_to_user_id": "1450006797041868802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034621869333364840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljy2701219119 支持呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450006797041868802",
+        "conversation_id": "2034621869333364840",
+        "created_at": "2026-03-19T13:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034621869333364840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034621869333364840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想发一些我平时即兴写的杂诗....支持的点赞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 607,
+          "like_count": 14632,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 2891
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T07:52:30.000Z",
+        "description": "迷登岛｜\n睡不着觉的东玄boy😴🔮 东玄最强｜\n感情/随便聊（塔罗凑合） 跨女/queer 友善空间！我也认真交友～ 想交友的加上我！互fo聊得来免费瞎聊 我上班忙回的可能比较慢，详细聊就私信我吧～ （每天赖床不想醒的算命家伙🌙）\n互关可以直接问我问题\n我看情况帮你！",
+        "id": "1450006797041868802",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "迷登岛.",
+        "pinned_tweet_id": "2026527470975893521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026524091738411008/UGfpf2SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 570,
+          "like_count": 9213,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "ljy2701219119",
+        "verified": false
+      }
+    ]
+  }
+}

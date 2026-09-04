@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2084639841837564019",
+    "created_at": "2026-08-10T06:33:00.000Z",
+    "display_text_range": [
+      13,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086702335225446453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948647076545658882",
+          "start": 0,
+          "username": "EntropicEmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086702335225446453",
+    "in_reply_to_user_id": "1948647076545658882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084639841837564019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropicEmb hhh宝宝这是阿普唑仑的原研药版本呢🤤💖可惜国内没有这款"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084639834786959360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4g4oUbEAAHlQS.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2084639841837564019",
+        "created_at": "2026-08-10T06:33:00.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086702335225446453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948647076545658882",
+              "start": 0,
+              "username": "EntropicEmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086702335225446453",
+        "in_reply_to_user_id": "1948647076545658882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084639841837564019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropicEmb hhh宝宝这是阿普唑仑的原研药版本呢🤤💖可惜国内没有这款"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084639834786959360"
+          ]
+        },
+        "author_id": "1948647076545658882",
+        "conversation_id": "2084639841837564019",
+        "created_at": "2026-08-04T13:57:23.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084639841837564019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPGPQdUpRJ",
+              "end": 54,
+              "expanded_url": "https://x.com/EntropicEmb/status/2084639841837564019/photo/1",
+              "media_key": "3_2084639834786959360",
+              "start": 31,
+              "url": "https://t.co/nPGPQdUpRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084639841837564019",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2084639834786959360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现竟然还有这样手机壳∑(ﾟДﾟﾉ)ﾉ\n一眼舍曲林:-I https://t.co/nPGPQdUpRJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086702335225446453",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 620,
+          "like_count": 15286,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T07:31:49.000Z",
+        "description": "『むじんに失魂、きゅうむに沈淪』",
+        "id": "1948647076545658882",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086540994175181143",
+        "name": "むじん失魂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948647076545658882/1785610702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083615247437635584/ciRZl-m0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 104,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "EntropicEmb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

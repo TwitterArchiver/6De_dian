@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086965913111101906",
+    "created_at": "2026-08-11T00:00:22.000Z",
+    "display_text_range": [
+      0,
+      165
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086965913111101906"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086965913111101906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鬼知道我现在是一个什么样的状态😱🥸🤪\n3：00醒来吃300mg普瑞\n4：00\n鼻吸0.8mg阿普\n4：15 \n舌下含服思诺思1t\n\n我玩手机把药效熬过去了，我错了。\n8：00\n普瑞吃了75*3=225mg\n小兄弟自信大胆向医生点菜来了👿\n呃大夫，这个阿普思诺思普瑞巴林\n Ok好吧，然后也是直接全都给我上一份\n病历搞起，处方搞起🥴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086965913111101906",
+        "created_at": "2026-08-11T00:00:22.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086965913111101906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086965913111101906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鬼知道我现在是一个什么样的状态😱🥸🤪\n3：00醒来吃300mg普瑞\n4：00\n鼻吸0.8mg阿普\n4：15 \n舌下含服思诺思1t\n\n我玩手机把药效熬过去了，我错了。\n8：00\n普瑞吃了75*3=225mg\n小兄弟自信大胆向医生点菜来了👿\n呃大夫，这个阿普思诺思普瑞巴林\n Ok好吧，然后也是直接全都给我上一份\n病历搞起，处方搞起🥴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086965913111101906",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 639,
+          "like_count": 15518,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

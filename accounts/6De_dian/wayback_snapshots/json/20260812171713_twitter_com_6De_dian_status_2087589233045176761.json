@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2087042640197865818",
+    "created_at": "2026-08-12T17:17:13.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087589233045176761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1401062276556197888",
+          "start": 0,
+          "username": "Forty_six_days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087589233045176761",
+    "in_reply_to_user_id": "1401062276556197888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087546664706101634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Forty_six_days 解离剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2087042640197865818",
+        "created_at": "2026-08-12T17:17:13.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087589233045176761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1401062276556197888",
+              "start": 0,
+              "username": "Forty_six_days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087589233045176761",
+        "in_reply_to_user_id": "1401062276556197888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087546664706101634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Forty_six_days 解离剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401062276556197888",
+        "conversation_id": "2087042640197865818",
+        "created_at": "2026-08-12T14:28:04.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087546664706101634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087546664706101634",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087042640197865818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian pr 还能解离吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2087589233045176761",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 647,
+          "like_count": 15728,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 3451
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-05T06:24:32.000Z",
+        "description": "不是一个人",
+        "id": "1401062276556197888",
+        "is_identity_verified": false,
+        "location": "南京市青龙山精神病院",
+        "most_recent_tweet_id": "2087551878569885849",
+        "name": "四十六天",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1401068163966509057/wRlwLGsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 85,
+          "like_count": 11871,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1763
+        },
+        "url": "",
+        "username": "Forty_six_days",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

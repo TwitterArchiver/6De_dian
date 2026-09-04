@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2087042640197865818",
+    "created_at": "2026-08-12T00:14:53.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087331953720590372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1685460141217288192",
+          "start": 0,
+          "username": "IsabelaNunes06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087331953720590372",
+    "in_reply_to_user_id": "1685460141217288192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087228025956151630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IsabelaNunes06 哪种的，ympr？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2087042640197865818",
+        "created_at": "2026-08-12T00:14:53.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087331953720590372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1685460141217288192",
+              "start": 0,
+              "username": "IsabelaNunes06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087331953720590372",
+        "in_reply_to_user_id": "1685460141217288192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087228025956151630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IsabelaNunes06 哪种的，ympr？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685460141217288192",
+        "conversation_id": "2087042640197865818",
+        "created_at": "2026-08-11T17:21:54.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087228025956151630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087228025956151630",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087042640197865818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 有靠谱药代吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2087331953720590372",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087029467348602956",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 642,
+          "like_count": 15619,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 3355
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-30T01:20:02.000Z",
+        "description": "☣𝕿𝖍𝖊𝖗𝖊 𝖎𝖘 𝖞𝖔𝖚, 𝖆𝖓𝖉 𝖙𝖍𝖊𝖓 𝖙𝖍𝖊𝖗𝖊 𝖎𝖘 𝖊𝖛𝖊𝖗𝖞𝖔𝖓𝖊 𝖊𝖑𝖘𝖊.⊹☠",
+        "id": "1685460141217288192",
+        "is_identity_verified": false,
+        "location": "🖤",
+        "most_recent_tweet_id": "2087228131044450562",
+        "name": "Yulia🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685460141217288192/1786468860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055717662966300672/pk78AVfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "IsabelaNunes06",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

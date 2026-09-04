@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2085336447901475121",
+    "created_at": "2026-08-06T12:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085336447901475121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6De_dian/statu…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/6De_dian/status/2085336050885419183",
+          "start": 126,
+          "url": "https://t.co/5r2RWzzhsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085336447901475121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085336050885419183",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真懵逼了，前低龄单主刚刚认识了三天，然后因为和自己的亲友闹掰了，然后就想跟我处闺蜜。。。\n我很绝望呀我只是一个普通的小画师，不要这样虐待我好吗？\n不仅要画稿，还要无偿陪聊。。。\n最后画了三四天，我真的受不了了，全算无偿赶紧跑路了\n再也不敢多交流一秒 https://t.co/5r2RWzzhsW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085336447901475121",
+        "created_at": "2026-08-06T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085336447901475121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6De_dian/statu…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/6De_dian/status/2085336050885419183",
+              "start": 126,
+              "url": "https://t.co/5r2RWzzhsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085336447901475121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085336050885419183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真懵逼了，前低龄单主刚刚认识了三天，然后因为和自己的亲友闹掰了，然后就想跟我处闺蜜。。。\n我很绝望呀我只是一个普通的小画师，不要这样虐待我好吗？\n不仅要画稿，还要无偿陪聊。。。\n最后画了三四天，我真的受不了了，全算无偿赶紧跑路了\n再也不敢多交流一秒 https://t.co/5r2RWzzhsW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085252190856249483",
+        "created_at": "2026-08-06T12:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085336050885419183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "877473366684221440",
+              "start": 0,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085336050885419183",
+        "in_reply_to_user_id": "877473366684221440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085253178505998629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@083001c1 我操，那些一天到晚喷画师的真不知道画师到底有多绝望\n有些单主真的是没开智来的，我操，不接稿真的完全没想到会有这样的神人\n之前有个包周百元后付，结果凌晨一点打电话给我叫我画，我不好意思拒绝，就真画到了凌晨五点\n后面折磨的我真的受不了了，几天画了有六七个半身，我直接给她算无偿赶紧跑路了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 596,
+          "like_count": 14141,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2695
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086675125571579963",
+    "created_at": "2026-08-10T15:01:42.000Z",
+    "display_text_range": [
+      11,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086830353319117077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841527273385840640",
+          "start": 0,
+          "username": "kansya123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086830353319117077",
+    "in_reply_to_user_id": "1841527273385840640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086791619832148315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansya123 我去优美啥分都来了，医生求求你给我开这个吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2086791612307529728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXF6kPa4AAemWL.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086675125571579963",
+        "created_at": "2026-08-10T15:01:42.000Z",
+        "display_text_range": [
+          11,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086830353319117077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841527273385840640",
+              "start": 0,
+              "username": "kansya123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086830353319117077",
+        "in_reply_to_user_id": "1841527273385840640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086791619832148315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansya123 我去优美啥分都来了，医生求求你给我开这个吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086791612307529728"
+          ]
+        },
+        "author_id": "1841527273385840640",
+        "conversation_id": "2086675125571579963",
+        "created_at": "2026-08-10T12:27:47.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086791619832148315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057552254463291393",
+              "start": 0,
+              "username": "6De_dian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ys5qkZ8d6",
+              "end": 47,
+              "expanded_url": "https://x.com/kansya123/status/2086791619832148315/photo/1",
+              "media_key": "3_2086791612307529728",
+              "start": 24,
+              "url": "https://t.co/9Ys5qkZ8d6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086791619832148315",
+        "in_reply_to_user_id": "2057552254463291393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086791612307529728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086675125571579963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6De_dian 来！（无聊做的一个假病例） https://t.co/9Ys5qkZ8d6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086830353319117077",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 633,
+          "like_count": 15321,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 3185
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T17:15:06.000Z",
+        "description": "普通的学生 overd*se 中国语 日本語",
+        "id": "1841527273385840640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086818156862189641",
+        "name": "utu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841527273385840640/1762623939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973336055777722368/e4eWFUFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 41,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "kansya123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

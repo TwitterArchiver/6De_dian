@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085684504866295808",
+        "3_2085684965698682880"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2085684996551970849",
+    "created_at": "2026-08-07T11:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085684996551970849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ks80cJY6i3",
+          "end": 96,
+          "expanded_url": "https://x.com/6De_dian/status/2085684996551970849/photo/1",
+          "media_key": "3_2085684504866295808",
+          "start": 73,
+          "url": "https://t.co/Ks80cJY6i3"
+        },
+        {
+          "display_url": "pic.x.com/Ks80cJY6i3",
+          "end": 96,
+          "expanded_url": "https://x.com/6De_dian/status/2085684996551970849/photo/1",
+          "media_key": "3_2085684965698682880",
+          "start": 73,
+          "url": "https://t.co/Ks80cJY6i3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085684996551970849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢小茗宝宝投喂呀🥺🥺\n如果能看到这条的话可以麻烦再联系我一下嘛TT\n我wx被限制加好友了@w@\n如果能接受的话加q也可以呀！\n祝你生活愉快—— https://t.co/Ks80cJY6i3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085684504866295808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHXAboXkAA50ks.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1894,
+        "media_key": "3_2085684965698682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHXbQXXwAAb6xh.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085684504866295808",
+            "3_2085684965698682880"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085684996551970849",
+        "created_at": "2026-08-07T11:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085684996551970849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ks80cJY6i3",
+              "end": 96,
+              "expanded_url": "https://x.com/6De_dian/status/2085684996551970849/photo/1",
+              "media_key": "3_2085684504866295808",
+              "start": 73,
+              "url": "https://t.co/Ks80cJY6i3"
+            },
+            {
+              "display_url": "pic.x.com/Ks80cJY6i3",
+              "end": 96,
+              "expanded_url": "https://x.com/6De_dian/status/2085684996551970849/photo/1",
+              "media_key": "3_2085684965698682880",
+              "start": 73,
+              "url": "https://t.co/Ks80cJY6i3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085684996551970849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢小茗宝宝投喂呀🥺🥺\n如果能看到这条的话可以麻烦再联系我一下嘛TT\n我wx被限制加好友了@w@\n如果能接受的话加q也可以呀！\n祝你生活愉快—— https://t.co/Ks80cJY6i3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 599,
+          "like_count": 14289,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2797
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

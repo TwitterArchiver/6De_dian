@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086915508092186698",
+    "created_at": "2026-08-10T20:40:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T21:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086915508092186698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057835400790462464",
+          "start": 3,
+          "username": "kimika37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086915508092186698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086817943468569046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimika37: 抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了吧。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086915508092186698",
+        "created_at": "2026-08-10T20:40:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086915508092186698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057835400790462464",
+              "start": 3,
+              "username": "kimika37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086915508092186698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086817943468569046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimika37: 抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了吧。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057835400790462464",
+        "conversation_id": "2086817943468569046",
+        "created_at": "2026-08-10T14:12:23.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086817943468569046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086817943468569046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 432,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖因为来到推特一直没抽过奖呀，所以小抽一下，仅限我互关参与，同类fo我我都会回，截止到8.13开奖，希望大家帮我转转我想跟更多人互关❤️\n一等奖13.14 一人\n二等奖5.2，一人\n三等奖3.3，一人\n小抽一下因为我也很穷，我微信还有22全抽了吧。\n关注➕转发➕评论，爱你们"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086915508092186698",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 635,
+          "like_count": 15446,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 3246
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "09｜温良边缘人\noder｜🔪🩸｜友跨友一切\n我的宝宝OvO @xiaotunsalutee \n我的主人TvT @AngelIlIIl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "xiaotunsalutee"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "AngelIlIIl"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2086911164794208572",
+        "name": "Curse2.0",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1785942687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085020979290640384/FjX4cCxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 203,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "kimika37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

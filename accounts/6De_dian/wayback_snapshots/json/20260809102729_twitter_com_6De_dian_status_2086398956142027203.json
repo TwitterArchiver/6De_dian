@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086369967667101863",
+    "created_at": "2026-08-09T10:27:29.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086398956142027203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738207674616217600",
+          "start": 0,
+          "username": "AnoYo_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086398956142027203",
+    "in_reply_to_user_id": "1738207674616217600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086369967667101863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnoYo_1028 我喜欢派汀和石药（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086369967667101863",
+        "created_at": "2026-08-09T10:27:29.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086398956142027203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738207674616217600",
+              "start": 0,
+              "username": "AnoYo_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086398956142027203",
+        "in_reply_to_user_id": "1738207674616217600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086369967667101863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnoYo_1028 我喜欢派汀和石药（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738207674616217600",
+        "conversation_id": "2086369967667101863",
+        "created_at": "2026-08-09T08:32:17.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086369967667101863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086369967667101863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈呀到底哪个牌子的加巴喷丁好。。。。。。不知道为什么看到不同牌子就感觉不太一样啊。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086398956142027203",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 609,
+          "like_count": 15116,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 3061
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T14:40:00.000Z",
+        "description": "可以叫我yuyu。本体是一场雨。\n苦逼复读生，不定时上线喵\n互fo大欢迎——我喜欢交朋友呀都来和我玩🥺\n精神不正常可能会发好多奇怪东西。不要讨厌我好吗…😢\n备用号@anoyo1028 我怕哪天这个老号炸了呜呜呜呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "anoyo1028"
+              }
+            ]
+          }
+        },
+        "id": "1738207674616217600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086398829684027425",
+        "name": "yuyu",
+        "pinned_tweet_id": "1962905191277346824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738207674616217600/1785471022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 113,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "AnoYo_1028",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

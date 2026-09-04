@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086037014642868418",
+    "created_at": "2026-08-09T20:43:27.000Z",
+    "display_text_range": [
+      21,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086553969124368440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1132729630245265408",
+          "start": 0,
+          "username": "pr80net"
+        },
+        {
+          "end": 20,
+          "id": "764625853183619072",
+          "start": 9,
+          "username": "ODShopLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086553969124368440",
+    "in_reply_to_user_id": "1132729630245265408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086037014642868418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80net @ODShopLove 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086037014642868418",
+        "created_at": "2026-08-09T20:43:27.000Z",
+        "display_text_range": [
+          21,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086553969124368440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1132729630245265408",
+              "start": 0,
+              "username": "pr80net"
+            },
+            {
+              "end": 20,
+              "id": "764625853183619072",
+              "start": 9,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086553969124368440",
+        "in_reply_to_user_id": "1132729630245265408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086037014642868418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80net @ODShopLove 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132729630245265408",
+        "conversation_id": "2086037014642868418",
+        "created_at": "2026-08-08T10:29:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086037014642868418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "764625853183619072",
+              "start": 37,
+              "username": "ODShopLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086037014642868418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1848,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "立秋了，该喝杯热奶茶热咖啡犒劳一下自己了，ODShop的夜一大佬出资，关注@ODShopLove+本贴文转发，为大家抽两个饮品类代付，小到蜜雪冰城大到沪上阿姨，代付单价最高40！ODShop是一个超强阵容建立的💊一站式社区，让人不再心惊胆战的被骗，能放心的shopping之地！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086553969124368440",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 612,
+          "like_count": 15155,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 3080
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5U2lA\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's @ZakkysLab\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "ZakkysLab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5U2lA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1jRa"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "is_identity_verified": false,
+        "location": "永夜安港",
+        "most_recent_tweet_id": "2086460352762687561",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2085697514506993872",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132729630245265408/1785053954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 537,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/Un7kre1jRa",
+        "username": "pr80net",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-14T00:53:04.000Z",
+        "description": "TG群组 https://t.co/JcosbyN8hE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/odshoplove",
+                "end": 28,
+                "expanded_url": "https://t.me/odshoplove",
+                "start": 5,
+                "url": "https://t.co/JcosbyN8hE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ODShop.love",
+                "end": 23,
+                "expanded_url": "http://ODShop.love",
+                "start": 0,
+                "url": "https://t.co/7jDgMresYt"
+              }
+            ]
+          }
+        },
+        "id": "764625853183619072",
+        "is_identity_verified": false,
+        "location": "梦境",
+        "most_recent_tweet_id": "2086460131882213876",
+        "name": "ODShop.love 愛是药片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764625853183619072/1786113993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085739370976563200/rkYLp-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 53,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/7jDgMresYt",
+        "username": "ODShopLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

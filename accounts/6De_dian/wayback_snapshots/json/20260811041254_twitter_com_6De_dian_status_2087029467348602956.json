@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087028902090719232"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2087029467348602956",
+    "created_at": "2026-08-11T04:12:54.000Z",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087029467348602956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ka6HLF478Q",
+          "end": 180,
+          "expanded_url": "https://x.com/6De_dian/status/2087029467348602956/photo/1",
+          "media_key": "3_2087028902090719232",
+          "start": 157,
+          "url": "https://t.co/Ka6HLF478Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087029467348602956",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087028902090719232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉我又来求投喂呀…\n我真的对他人是有用的吗？我希望能帮上别人的忙…\n多少都可以呀…\n求求各位宝宝了呀😭\n投喂的宝宝可以备注qq号嘛…!\n(TwT)\n可以随时找我倾诉 以及问药物作用等问题哦…\n有一定药理学知识🥺\n我会尽力解答您的问题，!\n可以陪着o一起聊天呀\n很好相处。。温顺的6点呢ww\n( ´ ▽ ` )ﾉ https://t.co/Ka6HLF478Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_2087028902090719232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPadupkXQAAT2N5.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087028902090719232"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2087029467348602956",
+        "created_at": "2026-08-11T04:12:54.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087029467348602956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ka6HLF478Q",
+              "end": 180,
+              "expanded_url": "https://x.com/6De_dian/status/2087029467348602956/photo/1",
+              "media_key": "3_2087028902090719232",
+              "start": 157,
+              "url": "https://t.co/Ka6HLF478Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087029467348602956",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087028902090719232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉我又来求投喂呀…\n我真的对他人是有用的吗？我希望能帮上别人的忙…\n多少都可以呀…\n求求各位宝宝了呀😭\n投喂的宝宝可以备注qq号嘛…!\n(TwT)\n可以随时找我倾诉 以及问药物作用等问题哦…\n有一定药理学知识🥺\n我会尽力解答您的问题，!\n可以陪着o一起聊天呀\n很好相处。。温顺的6点呢ww\n( ´ ▽ ` )ﾉ https://t.co/Ka6HLF478Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2087029467348602956",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 637,
+          "like_count": 15566,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 3317
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

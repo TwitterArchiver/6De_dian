@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085763355818536960",
+        "3_2085763412022235136"
+      ]
+    },
+    "author_id": "2057552254463291393",
+    "conversation_id": "2085763451465392329",
+    "created_at": "2026-08-07T16:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T17:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085763451465392329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPmhmO1ZJN",
+          "end": 98,
+          "expanded_url": "https://x.com/6De_dian/status/2085763451465392329/photo/1",
+          "media_key": "3_2085763355818536960",
+          "start": 75,
+          "url": "https://t.co/EPmhmO1ZJN"
+        },
+        {
+          "display_url": "pic.x.com/EPmhmO1ZJN",
+          "end": 98,
+          "expanded_url": "https://x.com/6De_dian/status/2085763451465392329/photo/1",
+          "media_key": "3_2085763412022235136",
+          "start": 75,
+          "url": "https://t.co/EPmhmO1ZJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085763451465392329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抱歉啦宝宝，如果是之前pr的拼团的话，6号就已经下单截止了呀\nTwT\n实在是抱歉呢宝宝…\n如果不介意的话，请私信放电话号码认领一下🥺我把这个退给你呀 https://t.co/EPmhmO1ZJN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_2085763355818536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIeuKUXMAAyRjR.jpg",
+        "width": 1084
+      },
+      {
+        "height": 1894,
+        "media_key": "3_2085763412022235136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIexbsXkAAIKgz.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085763355818536960",
+            "3_2085763412022235136"
+          ]
+        },
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085763451465392329",
+        "created_at": "2026-08-07T16:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085763451465392329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPmhmO1ZJN",
+              "end": 98,
+              "expanded_url": "https://x.com/6De_dian/status/2085763451465392329/photo/1",
+              "media_key": "3_2085763355818536960",
+              "start": 75,
+              "url": "https://t.co/EPmhmO1ZJN"
+            },
+            {
+              "display_url": "pic.x.com/EPmhmO1ZJN",
+              "end": 98,
+              "expanded_url": "https://x.com/6De_dian/status/2085763451465392329/photo/1",
+              "media_key": "3_2085763412022235136",
+              "start": 75,
+              "url": "https://t.co/EPmhmO1ZJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085763451465392329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉啦宝宝，如果是之前pr的拼团的话，6号就已经下单截止了呀\nTwT\n实在是抱歉呢宝宝…\n如果不介意的话，请私信放电话号码认领一下🥺我把这个退给你呀 https://t.co/EPmhmO1ZJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 603,
+          "like_count": 14478,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2855
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2085672042976960963",
+    "created_at": "2026-08-07T18:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085793632544493814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072699786336075776",
+          "start": 0,
+          "username": "zhiyeranxi"
+        },
+        {
+          "end": 27,
+          "id": "2059149411007991808",
+          "start": 12,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085793632544493814",
+    "in_reply_to_user_id": "2072699786336075776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085684561069891821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyeranxi @wndsfefoumxlw6 听说连锁店衣服店员（这个不确定有没有监控）\n和药店店员，据说有收声监控要求客人进店必须说完哪些推销，或者哪些欢迎词呢…\n（我认识的药店店员是有这样的硬性要求的、不然被抓到可能扣工资）\n绩效倒是另算其外啦…\n老钟工作也真是神了QAQ\n不仅逼顾客也强迫店员…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2085672042976960963",
+        "created_at": "2026-08-07T18:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085793632544493814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072699786336075776",
+              "start": 0,
+              "username": "zhiyeranxi"
+            },
+            {
+              "end": 27,
+              "id": "2059149411007991808",
+              "start": 12,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085793632544493814",
+        "in_reply_to_user_id": "2072699786336075776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085684561069891821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyeranxi @wndsfefoumxlw6 听说连锁店衣服店员（这个不确定有没有监控）\n和药店店员，据说有收声监控要求客人进店必须说完哪些推销，或者哪些欢迎词呢…\n（我认识的药店店员是有这样的硬性要求的、不然被抓到可能扣工资）\n绩效倒是另算其外啦…\n老钟工作也真是神了QAQ\n不仅逼顾客也强迫店员…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072699786336075776",
+        "conversation_id": "2085672042976960963",
+        "created_at": "2026-08-07T11:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085684561069891821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085684561069891821",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085672042976960963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 无印良品，优衣库什么的，类似自助式的购物更让我喜欢。我并不一定是为了购物而踏进店面，仅仅是一个人逛一逛，过段时间看看有什么新奇的商品，这本身就足够有趣\n那种推销，就给我必须买些什么的压力，反而会让我不想在这里继续待下去\n任何时候给我自由自在的感觉，才好呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 606,
+          "like_count": 14609,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 2887
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T15:14:29.000Z",
+        "description": "08/男孩子/随缘用药自伤/随性/dream\n性格飘忽不定，坚定的悲剧爱好者\n热爱着物哀 热爱亚文化 最喜欢青叶寄老师的溺于盛夏\n欢迎互fo 我是负能量与正能量的集合体 预感到自己会在某个夏日结束前离开",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%9C%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%A4%9C%E5%87%AA%E6%B1%90%E6%9F%931",
+                "start": 0,
+                "url": "https://t.co/LtxUZ7iP7i"
+              }
+            ]
+          }
+        },
+        "id": "2072699786336075776",
+        "location": "Dream country",
+        "name": "凪夜染汐",
+        "pinned_tweet_id": "2073506511096087005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072700977178722304/RalLc1Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 46,
+          "like_count": 946,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/LtxUZ7iP7i",
+        "username": "zhiyeranxi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 249,
+          "like_count": 5931,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 2693
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false
+      }
+    ]
+  }
+}

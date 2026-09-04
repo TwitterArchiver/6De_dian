@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2057552254463291393",
+    "conversation_id": "2086175034989793358",
+    "created_at": "2026-08-09T10:01:12.000Z",
+    "display_text_range": [
+      25,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086392344476008727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        },
+        {
+          "end": 24,
+          "id": "2065560327488479233",
+          "start": 12,
+          "username": "kaixinxinua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086392344476008727",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086312868954374580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 @kaixinxinua 治感冒真的好用，我操，我都难过了。我一感冒就只能吃感康，加双氯芬酸钠。（因为喉咙发炎很严重。。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2086175034989793358",
+        "created_at": "2026-08-09T10:01:12.000Z",
+        "display_text_range": [
+          25,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086392344476008727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            },
+            {
+              "end": 24,
+              "id": "2065560327488479233",
+              "start": 12,
+              "username": "kaixinxinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086392344476008727",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086312868954374580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 @kaixinxinua 治感冒真的好用，我操，我都难过了。我一感冒就只能吃感康，加双氯芬酸钠。（因为喉咙发炎很严重。。）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065198847698337792",
+        "conversation_id": "2086175034989793358",
+        "created_at": "2026-08-09T04:45:24.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086312868954374580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065560327488479233",
+              "start": 0,
+              "username": "kaixinxinua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086312868954374580",
+        "in_reply_to_user_id": "2065560327488479233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086288214428357063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaixinxinua 感康不是大分……治感冒真挺好用的，纯是被抖人污名化了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n不见证不参与争议\n查属性回fo回私信\n药理学爱好，正在学习中…\n会尽力回答您的问题(´∀`)/\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2086392344476008727",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057552254463291393/1782765816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 607,
+          "like_count": 15077,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 3041
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "亿万人必须回归天空（皆大欢喜，ghostban已解除）\n最虔诚的信徒（逃生舱）@fmf5y\n〈匿名问答〉↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 39,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2086392342538592330",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1781217429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 105,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T22:24:12.000Z",
+        "description": "",
+        "id": "2065560327488479233",
+        "is_identity_verified": false,
+        "location": "mars",
+        "most_recent_tweet_id": "2086288214428357063",
+        "name": "kaikaixin🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065560327488479233/1781304416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065561431135735808/3mGSxJ3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 34,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "kaixinxinua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
